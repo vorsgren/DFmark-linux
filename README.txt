@@ -11,7 +11,7 @@ It is suggested to run each test multiple times and take the average, to elimina
 Run_Tests:
 	This script is where you run your tests from. The syntax for calling tests is ./testname PARAMETER
 
-	By default it calls gentest and embarktest eight times each.
+	By default it calls gentest eight and embarktest four times each.
 
 	Run_Tests writes to a log file called Test_Results.txt
 	Each test results writes a log in this format:
@@ -43,7 +43,7 @@ TESTS:
 		A fort mode test - runs embark for the amount of time set in onMapLoad.init, by default one year.
 		
 		With the default Run_Tests script, it runs:
-		a 3 x 3 one year old embark with parameters = TESTSMALLEMBARK, 19 dwarves, only a few tunnels, and few items.
+		a 3 x 3 one year old embark with parameters = TESTSMALLEMBARK, 19 dwarves, only a few tunnels, and few items. NOTE: This seems to produce unreliable results, varying results
 		a 6 x 6 three year old embark with parameters = TESTBIGEMBARK, over 100 dwarves, large stockpiles and many items.
 
 		If you want to test your own fortresses, put them in the save folder and call them with ./embarktest YOURWORLDNAME
