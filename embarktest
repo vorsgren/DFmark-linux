@@ -1,0 +1,14 @@
+# !/bin/bash
+
+printf "Test = embarktest, $1, First Run"  >> Test_Results.txt
+{ time ./df_linux/dfhack +load-save $1 ; } 2>> Test_Results.txt
+printf "\n" >> Test_Results.txt
+printf "Test = embarktest, $1, Second Run"  >> Test_Results.txt
+{ time ./df_linux/dfhack +load-save $1 ; } 2>> Test_Results.txt
+printf "\n" >> Test_Results.txt
+printf "Test = embarktest, $1, Third Run"  >> Test_Results.txt
+{ time ./df_linux/dfhack +load-save $1 ; } 2>> Test_Results.txt
+printf "\n" >> Test_Results.txt
+printf "Test = embarktest, $1, Fourth Run"  >> Test_Results.txt
+{ time ./df_linux/dfhack +load-save $1 ; } 2>> Test_Results.txt
+printf "\n" >> Test_Results.txt

@@ -1,0 +1,15 @@
+# !/bin/bash
+
+printf "Test = gentest, $1, First Run" >> Test_Results.txt
+{ time ./df_linux/df -gen 101 3498 $1 ; } 2>> Test_Results.txt
+rm -rf df_linux/data/save/region101
+printf "\nTest = gentest, $1, Second Run" >> Test_Results.txt
+{ time ./df_linux/df -gen 101 3498 $1 ; } 2>> Test_Results.txt
+rm -rf df_linux/data/save/region101
+printf "\nTest = gentest, $1, Third Run" >> Test_Results.txt
+{ time ./df_linux/df -gen 101 3498 $1 ; } 2>> Test_Results.txt
+rm -rf df_linux/data/save/region101
+printf "\nTest = gentest, $1, Fourth Run" >> Test_Results.txt
+{ time ./df_linux/df -gen 101 3498 $1 ; } 2>> Test_Results.txt
+rm -rf df_linux/data/save/region101
+printf "\n" >> Test_Results.txt

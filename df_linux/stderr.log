@@ -1,0 +1,344 @@
+dfhack: hooking successful
+DFHack build: 0.44.12-r2-0-g315852a2
+Identifying DF version.
+Loading hack/symbols.xml ... OK
+v0.44.12 SDL win32 (windows): PE: 0x5B41189F
+v0.44.12 SDL win64 (windows): PE: 0x5B41215D
+v0.44.12 linux32 (linux): MD5: ae16f7bf5af14396d4b0008238fbf636
+v0.44.12 linux64 (linux): MD5: 4b10f9ccb4a7f491be755c45ef2cc457
+v0.44.12 osx32 (darwin): MD5: b8f9fb6741e2845abb14071242e95bc0
+v0.44.12 osx64 (darwin): MD5: 2cc70426a2e9156d848b9f014622b55c
+Loaded 6 DF symbol tables.
+Version: v0.44.12 linux64
+Initializing Console.
+Console is running.
+Initializing Plugins.
+loading plugin fastdwarf
+loaded plugin fastdwarf; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin tubefill
+loaded plugin tubefill; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin manipulator
+loaded plugin manipulator; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin ruby
+loaded plugin ruby; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin rename
+loaded plugin rename; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin mousequery
+loaded plugin mousequery; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin hotkeys
+loaded plugin hotkeys; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin debug
+loaded plugin debug; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin petcapRemover
+loaded plugin petcapRemover; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin dig
+loaded plugin dig; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autotrade
+loaded plugin autotrade; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin workNow
+loaded plugin workNow; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin changevein
+loaded plugin changevein; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin filltraffic
+loaded plugin filltraffic; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin labormanager
+loaded plugin labormanager; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin liquids
+loaded plugin liquids; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin cxxrandom
+loaded plugin cxxrandom; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin automelt
+loaded plugin automelt; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin building-hacks
+loaded plugin building-hacks; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin power-meter
+loaded plugin power-meter; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin forceequip
+loaded plugin forceequip; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin dwarfvet
+loaded plugin dwarfvet; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin infiniteSky
+loaded plugin infiniteSky; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin trackstop
+loaded plugin trackstop; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin burrows
+loaded plugin burrows; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin rendermax
+loaded plugin rendermax; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin cursecheck
+loaded plugin cursecheck; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin luasocket
+loaded plugin luasocket; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autohauler
+loaded plugin autohauler; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin cleanconst
+loaded plugin cleanconst; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin fortplan
+loaded plugin fortplan; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin RemoteFortressReader
+loaded plugin RemoteFortressReader; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin probe
+loaded plugin probe; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin workflow
+loaded plugin workflow; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin steam-engine
+loaded plugin steam-engine; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin showmood
+loaded plugin showmood; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin automaterial
+loaded plugin automaterial; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin reveal
+loaded plugin reveal; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin eventful
+loaded plugin eventful; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin add-spatter
+loaded plugin add-spatter; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin regrass
+loaded plugin regrass; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin tiletypes
+loaded plugin tiletypes; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin lair
+loaded plugin lair; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin misery
+loaded plugin misery; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin stockpiles
+loaded plugin stockpiles; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin cleanowned
+loaded plugin cleanowned; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin cleaners
+loaded plugin cleaners; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autogems
+loaded plugin autogems; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin strangemood
+loaded plugin strangemood; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin zone
+loaded plugin zone; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin embark-tools
+loaded plugin embark-tools; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin getplants
+loaded plugin getplants; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin stocks
+loaded plugin stocks; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin search
+loaded plugin search; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin changelayer
+loaded plugin changelayer; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin tweak
+loaded plugin tweak; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin isoworldremote
+loaded plugin isoworldremote; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin jobutils
+loaded plugin jobutils; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin confirm
+loaded plugin confirm; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin generated-creature-renamer
+loaded plugin generated-creature-renamer; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin buildingplan
+loaded plugin buildingplan; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin mode
+loaded plugin mode; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin createitem
+loaded plugin createitem; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autochop
+loaded plugin autochop; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin stockflow
+loaded plugin stockflow; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin fix-unit-occupancy
+loaded plugin fix-unit-occupancy; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin diggingInvaders
+loaded plugin diggingInvaders; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin fixveins
+loaded plugin fixveins; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin siege-engine
+loaded plugin siege-engine; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin fix-armory
+loaded plugin fix-armory; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin follow
+loaded plugin follow; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin title-folder
+SDLreal.dll: cannot open shared object file: No such file or directory
+SDL.framework/Versions/A/SDL: cannot open shared object file: No such file or directory
+SDL.framework/SDL: cannot open shared object file: No such file or directory
+loaded plugin title-folder; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin embark-assistant
+loaded plugin embark-assistant; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autodump
+loaded plugin autodump; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin nestboxes
+loaded plugin nestboxes; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin plants
+loaded plugin plants; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin pathable
+loaded plugin pathable; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin stonesense
+loaded plugin stonesense; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin 3dveins
+loaded plugin 3dveins; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin flows
+loaded plugin flows; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin prospector
+loaded plugin prospector; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin title-version
+loaded plugin title-version; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin changeitem
+loaded plugin changeitem; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin deramp
+loaded plugin deramp; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin command-prompt
+loaded plugin command-prompt; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin orders
+loaded plugin orders; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin blueprint
+loaded plugin blueprint; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin digFlood
+loaded plugin digFlood; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin dwarfmonitor
+loaded plugin dwarfmonitor; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin resume
+loaded plugin resume; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin seedwatch
+loaded plugin seedwatch; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin sort
+loaded plugin sort; DFHack build 0.44.12-r2-0-g315852a2
+loading plugin autolabor
+loaded plugin autolabor; DFHack build 0.44.12-r2-0-g315852a2
+Starting IO thread.
+Starting DF input capture thread.
+Starting the TCP listener.
+Invoking: keybinding add Ctrl-F1 hotkeys
+Invoking: keybinding add Alt-F1 hotkeys
+Invoking: keybinding add Ctrl-W twaterlvl
+Invoking: keybinding add Ctrl-V digv
+Invoking: keybinding add Ctrl-Shift-V "digv x"
+Invoking: keybinding add Ctrl-C spotclean
+Invoking: keybinding add Ctrl-Shift-K autodump-destroy-here
+Invoking: keybinding add Alt-Shift-I@dwarfmode/Zones "zone set"
+Invoking: keybinding add Ctrl-K autodump-destroy-item
+Listening on port 5000
+Invoking: keybinding add Ctrl-Alt-S@dwarfmode/Default quicksave
+Invoking: keybinding add Ctrl-Shift-N gui/rename
+Invoking: keybinding add Ctrl-Shift-T "gui/rename unit-profession"
+Invoking: keybinding add Ctrl-Shift-P command-prompt
+Invoking: keybinding add Alt-M@dwarfmode/Default "dwarfmonitor prefs"
+Invoking: keybinding add Ctrl-F@dwarfmode/Default "dwarfmonitor stats"
+Invoking: keybinding add Ctrl-Shift-F@dwarfmode forum-dwarves
+Invoking: keybinding add Alt-S@title gui/settings-manager
+Invoking: keybinding add Alt-S@dwarfmode/Default gui/settings-manager
+Invoking: keybinding add Alt-Q@jobmanagement/Main gui/manager-quantity
+Invoking: keybinding add Ctrl-Shift-R view-unit-reports
+Invoking: keybinding add Alt-I@dwarfmode/ViewUnits|unitlist gui/unit-info-viewer
+Invoking: keybinding add Ctrl-B@dungeonmode adv-bodyswap
+Invoking: keybinding add Ctrl-Shift-B@dungeonmode "adv-bodyswap force"
+Invoking: keybinding add Shift-O@dungeonmode gui/companion-order
+Invoking: keybinding add Ctrl-T@dungeonmode gui/advfort
+Invoking: keybinding add Ctrl-A@dungeonmode/ConversationSpeak adv-rumors
+Invoking: keybinding add Ctrl-A@legends "exportlegends all"
+Invoking: keybinding add Ctrl-Shift-Z@dwarfmode/Default "stocks show"
+Invoking: keybinding add Ctrl-Shift-I@dwarfmode/Default "gui/dfstatus"
+Invoking: keybinding add Ctrl-Shift-I@dfhack/lua/dfstatus "gui/dfstatus"
+Invoking: keybinding add Alt-P copystock
+Invoking: keybinding add Alt-L@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -load"
+Invoking: keybinding add Alt-S@dwarfmode/QueryBuilding/Some/Stockpile "gui/stockpiles -save"
+Invoking: keybinding add Ctrl-D job-duplicate
+Invoking: keybinding add Shift-A "job-material ALUNITE"
+Invoking: keybinding add Shift-M "job-material MICROCLINE"
+Invoking: keybinding add Shift-D "job-material DACITE"
+Invoking: keybinding add Shift-R "job-material RHYOLITE"
+Invoking: keybinding add Shift-I "job-material CINNABAR"
+Invoking: keybinding add Shift-B "job-material COBALTITE"
+Invoking: keybinding add Shift-O "job-material OBSIDIAN"
+Invoking: keybinding add Shift-T "job-material ORTHOCLASE"
+Invoking: keybinding add Shift-G "job-material GLASS_GREEN"
+Invoking: keybinding add Alt-Shift-N "sort-units name" "sort-items description"
+Invoking: keybinding add Alt-Shift-R "sort-units arrival"
+Invoking: keybinding add Alt-Shift-T "sort-units profession" "sort-items type material"
+Invoking: keybinding add Alt-Shift-Q "sort-units squad_position" "sort-items quality"
+Invoking: keybinding add Ctrl-M@dwarfmode/QueryBuilding/Some gui/mechanisms
+Invoking: keybinding add Alt-R@dwarfmode/QueryBuilding/Some gui/room-list
+Invoking: keybinding add Alt-L@dwarfmode/LookAround gui/liquids
+Invoking: keybinding add Ctrl-Shift-M@dwarfmode/Build/Position/Trap gui/power-meter
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/SiegeEngine gui/siege-engine
+Invoking: keybinding add Ctrl-W@layer_military/Equip/Customize/View gui/choose-weapons
+Invoking: keybinding add Ctrl-C@layer_military/Uniforms gui/clone-uniform
+Invoking: keybinding add Alt-P@dwarfmode/Hauling/DefineStop/Cond/Guide gui/guide-path
+Invoking: keybinding add Alt-A@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workshop-job
+Invoking: keybinding add Alt-W@dwarfmode/QueryBuilding/Some/Workshop/Job gui/workflow
+Invoking: keybinding add Alt-W@overallstatus "gui/workflow status"
+Invoking: keybinding add Alt-W@dfhack/lua/status_overlay "gui/workflow status"
+Invoking: keybinding add Shift-B@pet/List/Unit "gui/autobutcher"
+Invoking: keybinding add P@dwarfmode/QueryBuilding/Some/Weaponrack gui/assign-rack
+Invoking: keybinding add Alt-Shift-P@dwarfmode/LookAround gui/pathable
+Invoking: tweak stable-cursor
+DFHack is running.
+Enabled tweak stable-cursor (stable_cursor_hook::feed)
+Invoking: tweak advmode-contained
+Enabled tweak advmode-contained (advmode_contained_hook::feed)
+Invoking: tweak fast-trade
+Enabled tweak fast-trade (fast_trade_assign_hook::feed)
+Enabled tweak fast-trade (fast_trade_select_hook::feed)
+Invoking: tweak military-stable-assign
+Enabled tweak military-stable-assign (military_assign_hook::feed)
+Invoking: tweak military-color-assigned
+Enabled tweak military-color-assigned (military_assign_hook::render)
+Invoking: tweak craft-age-wear
+Enabled tweak craft-age-wear (craft_age_wear_hook::ageItem)
+Invoking: tweak farm-plot-select
+Enabled tweak farm-plot-select (farm_select_hook::feed)
+Enabled tweak farm-plot-select (farm_select_hook::render)
+Invoking: tweak import-priority-category
+Enabled tweak import-priority-category (takerequest_hook::feed)
+Enabled tweak import-priority-category (takerequest_hook::render)
+Invoking: tweak condition-material
+Enabled tweak condition-material (condition_material_hook::feed)
+Invoking: tweak hotkey-clear
+Enabled tweak hotkey-clear (hotkey_clear_hook::feed)
+Enabled tweak hotkey-clear (hotkey_clear_hook::render)
+Invoking: tweak embark-profile-name
+Enabled tweak embark-profile-name (embark_profile_name_hook::feed)
+Invoking: tweak block-labors              # Prevents labors that can't be used from being toggled
+Enabled tweak block-labors (block_labors_hook::feed)
+Enabled tweak block-labors (block_labors_hook::render)
+Invoking: tweak burrow-name-cancel
+Enabled tweak burrow-name-cancel (burrow_name_cancel_hook::feed)
+Invoking: tweak cage-butcher
+Enabled tweak cage-butcher (cage_butcher_hook::feed)
+Enabled tweak cage-butcher (cage_butcher_hook::render)
+Invoking: tweak civ-view-agreement
+Enabled tweak civ-view-agreement (civ_agreement_view_hook::render)
+Invoking: tweak eggs-fertile
+Enabled tweak eggs-fertile (egg_fertile_hook::render)
+Invoking: tweak fps-min
+Enabled tweak fps-min (fps_min_hook)
+Invoking: tweak hide-priority
+Enabled tweak hide-priority (hide_priority_hook::feed)
+Enabled tweak hide-priority (hide_priority_hook::render)
+Invoking: tweak kitchen-prefs-all
+Enabled tweak kitchen-prefs-all (kitchen_prefs_all_hook::feed)
+Enabled tweak kitchen-prefs-all (kitchen_prefs_all_hook::render)
+Invoking: tweak kitchen-prefs-empty
+Enabled tweak kitchen-prefs-empty (kitchen_prefs_empty_hook::render)
+Invoking: tweak max-wheelbarrow
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::render)
+Enabled tweak max-wheelbarrow (max_wheelbarrow_hook::feed)
+Invoking: tweak shift-8-scroll
+Enabled tweak shift-8-scroll (shift_8_scroll_hook::feed)
+Invoking: tweak stone-status-all
+Enabled tweak stone-status-all (stone_status_all_hook::feed)
+Enabled tweak stone-status-all (stone_status_all_hook::render)
+Invoking: tweak title-start-rename
+Enabled tweak title-start-rename (title_start_rename_hook::feed)
+Enabled tweak title-start-rename (title_start_rename_hook::render)
+Invoking: tweak tradereq-pet-gender
+Enabled tweak tradereq-pet-gender (pet_gender_hook::render)
+Invoking: enable title-version
+Invoking: enable manipulator
+Invoking: enable search
+Invoking: enable automaterial
+Invoking: enable  confirm  dwarfmonitor  mousequery  autogems  automelt  autotrade  buildingplan  resume  trackstop  zone  stocks  autochop  stockpiles
+Invoking: embark-tools enable sticky sand mouse
+Invoking: modtools/extra-gamelog enable
+Invoking: enable gui/extended-status
+Invoking: view-item-info enable
+Invoking: gui/load-screen enable
+Invoking: sc-script add SC_WORLD_LOADED onLoad.init-example
+Invoking: die

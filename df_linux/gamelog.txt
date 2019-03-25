@@ -1,0 +1,1474 @@
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation aborted because folder exists.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation aborted because folder exists.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation aborted because folder exists.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation aborted because folder exists.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "102" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+The weather has cleared.
+Spring has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "201" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "202" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: -gen "201" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "202" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "201" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "202" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Generating world using parameter set TESTSMALLGEN
+ Seed: 1111
+ History Seed: 1111
+ Name Seed: 1111
+ Creature Seed: 1111
+Nothing has arrived on the calendar.
+The weather has cleared.
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region202, TESTBIGGEN (TESTBIGGEN) at coordinates (209,111)
+Loaded the fortress L¡ceyivafice (Petaldrink) of the civilization  ().
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region202" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region202, TESTBIGGEN (TESTBIGGEN) at coordinates (86,112)
+Loaded the fortress Tag—zkib (Leapednets), colonized by the group Tastrodurvad (The Distinct Seal) of the civilization Melbil Kokeb (The Tome of Dwellers).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region202" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region202, TESTBIGGEN (TESTBIGGEN) at coordinates (86,112)
+Loaded the fortress Tag—zkib (Leapednets), colonized by the group Tastrodurvad (The Distinct Seal) of the civilization Melbil Kokeb (The Tome of Dwellers).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" "+nopause" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+nopause" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+nopause=1" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+enable" "nopause" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" "+nopause" "1" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+It has started raining.
+The weather has cleared.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+It has started raining.
+The weather has cleared.
+Summer has arrived on the calendar.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+Summer has arrived on the calendar.
+It has started raining.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+Summer has arrived on the calendar.
+The fisherdwarf has been stung by a bumblebee!
+The Miner Mistˆm Duthnursazir and the Stoneworker Endok Odkishrith have married.  Congratulations!
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "region201" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded region201, TESTSMALLGEN (TESTSMALLGEN) at coordinates (48,39)
+Loaded the fortress ‹ngizcustith (Ceilingpassage), colonized by the group Mafol Kib (The Chamber of Nets) of the civilization As‰n Otin (The Gravel of Wine).
+Summer has arrived on the calendar.
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+** Loading Fortress **
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TestSmallEmbark" 
+Spring has arrived on the calendar.
+The weather has cleared.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TestSmallEmbark" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TestSmallEmbark" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TestSmallEmbark, TESTSMALLGEN (TESTSMALLGEN) at coordinates (8,44)
+Loaded the fortress Rithemal (Bellssense), colonized by the group Nakisast (The Cunning Sabre) of the civilization As‰n Otin (The Gravel of Wine).
+It has started raining.
+It is now summer.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World image, detailed image and info exported.
+Command Line: World exported.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Summer has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (8,44)
+Loaded the fortress Rithemal (Bellssense), colonized by the group Nakisast (The Cunning Sabre) of the civilization As‰n Otin (The Gravel of Wine).
+The weather has cleared.
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Summer has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (8,44)
+Loaded the fortress Rithemal (Bellssense), colonized by the group Nakisast (The Cunning Sabre) of the civilization As‰n Otin (The Gravel of Wine).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the western swamps.
+The Stray Yak Cow (Tame) has been slaughtered.
+There is nothing to catch in the southeastern swamps.
+Zuglar Rakusttoral, Speardwarf is visiting.
+Citu Dofpirni, Human Lasher is visiting.
+Nil Kolost, Marksdwarf is visiting.
+Zon Letmosbekar, Butcher cancels Brew drink from plant: Needs empty food storage item.
+The Stray Yak Bull (Tame) has been slaughtered.
+Dastot Adil—st, Farmer cancels Brew drink from plant: Needs empty food storage item.
+The Stray Mule (Tame) has been slaughtered.
+Uzol Reglocun has cooked a masterpiece!
+Uzol Reglocun has created a masterpiece prepared yak kidney stew [15]!
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+The Stray Yak Calf (Tame) has been slaughtered.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Uzol Reglocun has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+A elven caravan from Idala Taviti has arrived.
+The merchants need a trade depot to unload their goods.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Asob Idnanir has created a masterpiece yak tripe stew [6]!
+Asob Idnanir has cooked a masterpiece!
+Asob Idnanir has created a masterpiece yak meat stew [16]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has created a masterpiece plump helmet stew [9]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+Uzol Reglocun has created a masterpiece plump helmet stew [8]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Asob Idnanir has created a masterpiece plump helmet stew [5]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+The merchants from Idala Taviti will be leaving soon.
+It has started raining.
+Asob Idnanir has created a masterpiece plump helmet stew [7]!
+Prepare Fine Meal (25) has been completed.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+The merchants from Idala Taviti have embarked on their journey.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+The weather has cleared.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Some migrants have arrived.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Al†th Dastotdesis, Brewer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Unib Gusilurr‹th, Ranger has been possessed!
+Unib Gusilurr‹th has claimed a Craftsdwarf's Workshop.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+An animal has grown to become a Stray Yak Cow.
+Unib Gusilurr‹th has begun a mysterious construction!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Unib Gusilurr‹th, Ranger has created Adgeth Kastolottem, a pecan wood amulet!  She claims it as an heirloom in the name of the family ancestor Rovod Glovedpulley.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+It is now summer.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the western swamps.
+The Stray Yak Cow (Tame) has been slaughtered.
+There is nothing to catch in the southeastern swamps.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+The Stray Yak Bull (Tame) has been slaughtered.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Accok Laslemoled, Human Swordsman is visiting.
+Uzol Reglocun has cooked a masterpiece!
+Uzol Reglocun has created a masterpiece plump helmet stew [8]!
+Thon Licodosla, Human Swordsman is visiting.
+The Stray Mule (Tame) has been slaughtered.
+Bestra Xakedperad, Human Swordsman is visiting.
+Uzol Reglocun has cooked a masterpiece!
+Asob Idnanir, Miner cancels Brew drink from plant: Needs empty food storage item.
+The Stray Yak Calf (Tame) has been slaughtered.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has created a masterpiece plump helmet stew [15]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Uzol Reglocun has created a masterpiece plump helmet stew [14]!
+A elven caravan from Idala Taviti has arrived.
+The merchants need a trade depot to unload their goods.
+Uzol Reglocun has created a masterpiece yak tripe stew [9]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Urist Šrnamoltar, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has created a masterpiece prickle berry stew [11]!
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Asob Idnanir has created a masterpiece plump helmet stew [5]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has created a masterpiece plump helmet stew [11]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has created a masterpiece plump helmet stew [7]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Kadol Dod¢kkekim, Stray Cat (Tame) has adopted Zasit Šrithgigin, Fishery Worker.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Uzol Reglocun has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has created a masterpiece plump helmet stew [7]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Asob Idnanir has created a masterpiece plump helmet stew [6]!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Asob Idnanir has cooked a masterpiece!
+Prepare Fine Meal (25) has been completed.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The merchants from Idala Taviti will be leaving soon.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The merchants from Idala Taviti have embarked on their journey.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Some migrants have arrived.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+Limul Kelegeb, Siege Operator cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+It is now summer.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the northern swamps.
+There is nothing to catch in the southeastern swamps.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The residency petition of the Human Swordsman Accok Laslemoled has been ignored.
+The residency petition of the Human Swordsman Thon Licodosla has been ignored.
+The residency petition of the Human Swordsman Bestra Xakedperad has been ignored.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Obok Tomusoddom, Swordsdwarf is visiting.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Besmar Ardeslogem, Axedwarf is visiting.
+Uzol Reglocun, Trader cancels Brew drink from plant: Needs empty food storage item.
+Bomrek Amugber, Planter is taken by a fey mood!
+Obok Engigk–buk, Swordsdwarf is visiting.
+Bomrek Amugber has claimed a Craftsdwarf's Workshop.
+Bomrek Amugber has begun a mysterious construction!
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Bomrek Amugber, Planter has created Usurvod Amithalek, a gypsum mug!  He claims it as an heirloom in the name of the family ancestor Uzol Lancetribute.
+Bomrek Amugber has become a Stonecrafter.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+Zasit Šrithgigin, Fishery Worker has given birth to a girl.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Oddom Adilostath has grown to become a Rooster.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Dastot Adil—st, Farmer has given birth to a girl.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Some migrants have arrived.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Ducim Bomrekushil has grown to become a Peasant.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Rakust Amudeshtƒn has grown to become a Rooster.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The claystone strikes the tiercel peregrine in the right wing and the injured part is crushed!
+An artery has been opened by the attack!
+The tiercel peregrine gives in to pain.
+The tiercel peregrine falls over.
+The tiercel peregrine regains consciousness.
+The tiercel peregrine gives in to pain.
+The flying ({bronze bolt}) strikes the tiercel peregrine in the upper body, tearing apart the muscle and tearing apart the liver!
+An artery has been opened by the attack!
+The tiercel peregrine is propelled away by the force of the blow!
+The tiercel peregrine's right lower leg skids along the ground and the part splits in gore!
+An artery has been opened by the attack!
+Goden T“sedasmel, Fisherdwarf: Has the tide turned?  I laugh in the face of death!
+The tiercel peregrine slams into an obstacle!
+Limul Kelegeb, Siege Operator cancels Brew drink from plant: Needs empty food storage item.
+Goden T“sedasmel, Fisherdwarf: I finished up some work.  That was satisfying.
+The fisherdwarf stands up.
+Urist Šrnamoltar, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Nish Tostcatten has become a Farmer.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Autumn has come.
+There is nothing to catch in the northern swamps.
+There is nothing to catch in the southeastern swamps.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+The residency petition of the Swordsdwarf Obok Tomusoddom has been ignored.
+The outpost liaison Monom Tin”thkeskal from Œton Stul has arrived.
+A caravan from Œton Stul has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer is taken by a fey mood!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+An animal has grown to become a Stray Doe Rabbit.
+The residency petition of the Axedwarf Besmar Ardeslogem has been ignored.
+The residency petition of the Swordsdwarf Obok Engigk–buk has been ignored.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zon Olinshaketh Gomathlors‹th Bab, Speardwarf is visiting.
+There is nothing to catch in the western swamps.
+The Stray Yak Cow (Tame) has been slaughtered.
+Limul Kelegeb, Speardwarf is visiting.
+There is nothing to catch in the southeastern swamps.
+Dastot Adil—st, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Esmin Mesmdothan, Human Lasher is visiting.
+The Stray Yak Bull (Tame) has been slaughtered.
+Urist Šrnamoltar, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Cilob Fikodshin has cooked a masterpiece!
+The Stray Mule (Tame) has been slaughtered.
+Nish Tostcatten, Jeweler cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor has cooked a masterpiece!
+Sarvesh Lorbamkodor has created a masterpiece plump helmet stew [15]!
+The Stray Yak Calf (Tame) has been slaughtered.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the western swamps.
+Apuk Uceejas, Human Axeman is visiting.
+The Stray Yak Cow (Tame) has been slaughtered.
+There is nothing to catch in the southeastern swamps.
+Reg Nimarkivish has cooked a masterpiece!
+Perad Ranebemta, Human Crossbowman is visiting.
+Rig•th Engigathel, Hammerdwarf is visiting.
+The Stray Yak Bull (Tame) has been slaughtered.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+The Stray Mule (Tame) has been slaughtered.
+Uzol Reglocun, Trader cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+The Stray Yak Calf (Tame) has been slaughtered.
+Zon Letmosbekar, Butcher cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Reg Nimarkivish has created a masterpiece prickle berry stew [19]!
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Asob Idnanir has cooked a masterpiece!
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Reg Nimarkivish has cooked a masterpiece!
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Urist Šrnamoltar, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Urist Šrnamoltar, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Asob Idnanir has cooked a masterpiece!
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Reg Nimarkivish has cooked a masterpiece!
+Prepare Fine Meal (25) has been completed.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+It has started raining.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The weather has cleared.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+x13
+x14
+x15
+x16
+x17
+x18
+x19
+x20
+x21
+x22
+It is now summer.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the northern swamps.
+There is nothing to catch in the southeastern swamps.
+Dastot Adil—st, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+The residency petition of the Human Axeman Apuk Uceejas has been ignored.
+The residency petition of the Human Crossbowman Perad Ranebemta has been ignored.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+The residency petition of the Hammerdwarf Rig•th Engigathel has been ignored.
+Mosus Thimshursazir, Axedwarf is visiting.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Citu Dofpirni, Human Lasher is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zekdu Kothvirtol, Human Spearman is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+Zasit Šrithgigin, Fishery Worker has given birth to a boy.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Dastot Adil—st, Farmer has given birth to a girl.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+Autumn has come.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the northern swamps.
+There is nothing to catch in the southeastern swamps.
+Lorbam Logemgusil, Woodworker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+The residency petition of the Axedwarf Mosus Thimshursazir has been ignored.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+The residency petition of the Human Lasher Citu Dofpirni has been ignored.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Kol Kad“lzimesh, Speardwarf is visiting.
+Tosid Fathrifot, Marksdwarf is visiting.
+The residency petition of the Human Spearman Zekdu Kothvirtol has been ignored.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Nish Tostcatten has become a Farmer.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Mudi Okgushduqueh, Human Bowman is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+x12
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+Reg Nimarkivish has become a Farmer.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+Winter is upon you.
+There is nothing to catch in the northern swamps.
+Uzol Reglocun, Trader cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the southeastern swamps.
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+The Farmer Nish Tostcatten and the Miner Asob Idnanir have married.  Congratulations!
+Cilob Fikodshin, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+x2
+The residency petition of the Speardwarf Kol Kad“lzimesh has been ignored.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+The residency petition of the Marksdwarf Tosid Fathrifot has been ignored.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+E¤asm Icloanba, Human Spearman is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Zan ƒstamost, Hammerdwarf is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+The residency petition of the Human Bowman Mudi Okgushduqueh has been ignored.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Sodel ‹tebŒton, Swordsdwarf is visiting.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+Sarvesh Lorbamkodor, Farmer cancels Brew drink from plant: Needs empty food storage item.
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+x10
+x11
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+x2
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+It has started raining.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+The weather has cleared.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+Zasit Šrithgigin, Fishery Worker cancels Brew drink from plant: Needs empty food storage item.
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+x2
+x3
+x4
+x5
+x6
+Spring has arrived!
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTSMALLEMBARK, TESTSMALLGEN (TESTSMALLGEN) at coordinates (60,20)
+Loaded the fortress Abankodor (Constructdawns), colonized by the group Deg‰l Zatthud (The Galley of Judging) of the civilization Œton Stul (The Hall of Maws).
+Adil Athelkurel, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+There is nothing to catch in the western swamps.
+The Stray Yak Cow (Tame) has been slaughtered.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTSMALLEMBARK" 
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+The weather has cleared.
+Loaded TESTBIGEMBARK, TESTBIGGEN (TESTBIGGEN) at coordinates (86,112)
+Loaded the fortress Tag—zkib (Leapednets), colonized by the group Tastrodurvad (The Distinct Seal) of the civilization Melbil Kokeb (The Tome of Dwellers).
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTBIGEMBARK, TESTBIGGEN (TESTBIGGEN) at coordinates (86,112)
+Loaded the fortress Tag—zkib (Leapednets), colonized by the group Tastrodurvad (The Distinct Seal) of the civilization Melbil Kokeb (The Tome of Dwellers).
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTBIGGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTBIGGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: -gen "101" "3498" "TESTSMALLGEN" 
+Command Line: World generation initiated.
+Command Line: World generation parameter set located successfully.
+Generating world using parameter set TESTSMALLGEN
+ Seed: ª
+ History Seed: ª
+ Name Seed: ª
+ Creature Seed: ª
+Command Line: World generation manually aborted.
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTBIGEMBARK" 
+** Loading Fortress **
+Spring has arrived on the calendar.
+It has started raining.
+Loaded TESTBIGEMBARK, TESTBIGGEN (TESTBIGGEN) at coordinates (86,112)
+Loaded the fortress Tag—zkib (Leapednets), colonized by the group Tastrodurvad (The Distinct Seal) of the civilization Melbil Kokeb (The Tome of Dwellers).
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTBIGEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTBIGEMBARK" 
+*** STARTING NEW GAME ***
+Command Line: "+load-save" "TESTBIGEMBARK" 

@@ -1,0 +1,3 @@
+nopause 1
+enable hermit
+delay -time 1 -timeUnits years -command [ die ]

@@ -1,0 +1,13 @@
+Impoverished Word Selector
+path fail: giant tortoise,4,71,43 -> 4,70,42: Id #10418:Path Goal Owner:Station Owner at 4,70,42
+path fail: giant tortoise,8,10,43 -> 8,11,42: Id #10415:Path Goal Seek Station Flood:Station Owner at 8,11,42
+path fail: giant tortoise,62,27,43 -> 64,29,42: Id #10415:Path Goal Owner:Station Owner at 64,29,42
+path fail: giant tortoise,62,27,43 -> 63,29,42: Id #10416:Path Goal Seek Station Flood:Station Owner at 63,29,42
+DOUBLE TAGGED ITEM: Store Item in Stockpile, prepared yak intestines [2]
+loop path fail: <same square> crundle,130,9,17 -> 120,17,18: Id #10836:Path Goal Seek Station:Station Owner at 118,6,18
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag
+removed erroneous unit occupancy flag

@@ -1,0 +1,2522 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>HISTORY - old changelogs &#8212; DFHack 0.44.12-r2 documentation</title>
+    <link rel="stylesheet" href="../_static/dfhack.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '0.44.12-r2',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="shortcut icon" href="../_static/dfhack-icon.ico"/>
+    <link rel="search" title="Search" href="../search.html" />
+   
+  <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head>
+  <body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="history-old-changelogs">
+<span id="history"></span><h1><a class="toc-backref" href="#id123">HISTORY - old changelogs</a><a class="headerlink" href="#history-old-changelogs" title="Permalink to this headline">¶</a></h1>
+<p>This file is where old changelogs live, so the current <a class="reference internal" href="NEWS.html#changelog"><span class="std std-ref">Changelog</span></a>
+in <code class="docutils literal"><span class="pre">NEWS.rst</span></code> doesn’t get too long.</p>
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#history-old-changelogs" id="id123">HISTORY - old changelogs</a><ul>
+<li><a class="reference internal" href="#dfhack-0-43-05-r3" id="id124">DFHack 0.43.05-r3</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-r2" id="id125">DFHack 0.43.05-r2</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-r1" id="id126">DFHack 0.43.05-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-beta2" id="id127">DFHack 0.43.05-beta2</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-beta1" id="id128">DFHack 0.43.05-beta1</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-alpha4" id="id129">DFHack 0.43.05-alpha4</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-05-alpha3" id="id130">DFHack 0.43.05-alpha3</a></li>
+<li><a class="reference internal" href="#dfhack-0-43-03-r1" id="id131">DFHack 0.43.03-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-42-06-r1" id="id132">DFHack 0.42.06-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r5" id="id133">DFHack 0.40.24-r5</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r4" id="id134">DFHack 0.40.24-r4</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r3" id="id135">DFHack 0.40.24-r3</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r2" id="id136">DFHack 0.40.24-r2</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r1" id="id137">DFHack 0.40.24-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r0" id="id138">DFHack 0.40.24-r0</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-23-r1" id="id139">DFHack 0.40.23-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-19-r1" id="id140">DFHack 0.40.19-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-16-r1" id="id141">DFHack 0.40.16-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-15-r1" id="id142">DFHack 0.40.15-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-14-r1" id="id143">DFHack 0.40.14-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-13-r1" id="id144">DFHack 0.40.13-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-12-r1" id="id145">DFHack 0.40.12-r1</a></li>
+<li><a class="reference internal" href="#dfhack-0-40-11-r1" id="id146">DFHack 0.40.11-r1</a></li>
+<li><a class="reference internal" href="#dfhack-v0-40-10-r1" id="id147">DFHack v0.40.10-r1</a></li>
+<li><a class="reference internal" href="#dfhack-v0-40-08-r2" id="id148">DFHack v0.40.08-r2</a></li>
+<li><a class="reference internal" href="#dfhack-v0-40-08-r1" id="id149">DFHack v0.40.08-r1</a></li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r5" id="id150">DFHack v0.34.11-r5</a></li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r4" id="id151">DFHack v0.34.11-r4</a></li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r3" id="id152">DFHack v0.34.11-r3</a></li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r2" id="id153">DFHack v0.34.11-r2</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="dfhack-0-43-05-r3">
+<h2><a class="toc-backref" href="#id124">DFHack 0.43.05-r3</a><a class="headerlink" href="#dfhack-0-43-05-r3" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="internals">
+<h3>Internals<a class="headerlink" href="#internals" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed an uncommon crash that could occur when printing text to the console</li>
+<li>Added lots of previously-missing DF classes</li>
+<li>More names for fields: <a class="reference external" href="https://github.com/DFHack/df-structures/compare/0.43.05-r2...0.43.05">https://github.com/DFHack/df-structures/compare/0.43.05-r2…0.43.05</a></li>
+</ul>
+</div>
+<div class="section" id="fixes">
+<h3>Fixes<a class="headerlink" href="#fixes" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Linux: fixed argument to <code class="docutils literal"><span class="pre">setarch</span></code> in the <code class="docutils literal"><span class="pre">dfhack</span></code> launcher script</p>
+</li>
+<li><p class="first">Ruby: fixed an error that occurred when the DF path contained an apostrophe</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#digginginvaders"><span class="std std-ref">diggingInvaders</span></a> now compiles again and is included</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#labormanager"><span class="std std-ref">labormanager</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>stopped waiting for on-duty military dwarves with minor injuries to obtain care</li>
+<li>stopped waiting for meetings when participant(s) are dead</li>
+<li>fixed a crash for dwarves with no cultural identity</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Lua API.html#luasocket"><span class="std std-ref">Luasocket</span></a>: fixed <code class="docutils literal"><span class="pre">receive()</span></code> with a byte count</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#orders"><span class="std std-ref">orders</span></a>: fixed an error when importing orders with material categories</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#siren"><span class="std std-ref">siren</span></a>: fixed an error</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#stockpiles"><span class="std std-ref">stockpiles</span></a>: fixed serialization of barrel and bin counts</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#view-item-info"><span class="std std-ref">view-item-info</span></a>: fixed a <code class="docutils literal"><span class="pre">CHEESE_MAT</span></code>-related error</p>
+</li>
+</ul>
+</div>
+<div class="section" id="misc-improvements">
+<h3>Misc Improvements<a class="headerlink" href="#misc-improvements" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="_auto/devel.html#devel-export-dt-ini"><span class="std std-ref">devel/export-dt-ini</span></a>: added more offsets for new DT versions</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#digfort"><span class="std std-ref">digfort</span></a>: added support for changing z-levels</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: suppressed ABSTRACT_BUILDING warning</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-dfstatus"><span class="std std-ref">gui/dfstatus</span></a>: excluded logs in constructions</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#labormanager"><span class="std std-ref">labormanager</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>stopped assigning woodcutting jobs to elves</li>
+<li>“recover wounded” jobs now weighted based on altruism</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: added support for buildings, grass, riders, and
+hair/beard styles</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-r2">
+<h2><a class="toc-backref" href="#id125">DFHack 0.43.05-r2</a><a class="headerlink" href="#dfhack-0-43-05-r2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id1">
+<h3>Internals<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Rebuilding DFHack can be faster if nothing Git-related has changed</li>
+<li>Plugins can now hook Screen::readTile()</li>
+<li>Improved Lua compatibility with plugins that hook into GUI functions (like TWBT)</li>
+<li>Expanded focus strings for jobmanagement and workquota_condition viewscreens</li>
+<li><code class="docutils literal"><span class="pre">Gui::getAnyUnit()</span></code>: added support for viewscreen_unitst,
+viewscreen_textviewerst, viewscreen_layer_unit_relationshipst</li>
+<li>Fixed (limited) keybinding support in PRINT_MODE:TEXT on macOS</li>
+<li>Added a new standardized <code class="docutils literal"><span class="pre">Gui::refreshSidebar()</span></code> function to fix behavior of
+some plugins on the lowest z-level</li>
+<li>New <code class="docutils literal"><span class="pre">Buildings</span></code> module functions: <code class="docutils literal"><span class="pre">markedForRemoval()</span></code>, <code class="docutils literal"><span class="pre">getCageOccupants()</span></code></li>
+<li>Limited recursive command invocations to 20 to prevent crashes</li>
+<li>Added an <code class="docutils literal"><span class="pre">onLoad.init-example</span></code> file</li>
+</ul>
+</div>
+<div class="section" id="lua">
+<h3>Lua<a class="headerlink" href="#lua" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Improved C++ exception handling for some native functions that aren’t direct
+wrappers around C++ functions (in this case, error messages could be nil and
+cause the Lua interpreter to quit)</p>
+</li>
+<li><p class="first">Added support for a <code class="docutils literal"><span class="pre">key_pen</span></code> option in Label widgets</p>
+</li>
+<li><p class="first">Fixed <code class="docutils literal"><span class="pre">to_first</span></code> argument to <code class="docutils literal"><span class="pre">dfhack.screen.dismiss()</span></code></p>
+</li>
+<li><p class="first">Added optional <code class="docutils literal"><span class="pre">map</span></code> parameters to some screen functions</p>
+</li>
+<li><p class="first">Exposed some more functions to Lua:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal"><span class="pre">dfhack.gui.refreshSidebar()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.gui.getAnyUnit()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.gui.getAnyBuilding()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.gui.getAnyItem()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.gui.getAnyPlant()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.gui.getDepthAt()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.units.getUnitsInBox()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.units.isVisible()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.maps.isTileVisible()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.buildings.markedForRemoval()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.buildings.getCageOccupants()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.internal.md5()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.internal.md5File()</span></code></li>
+<li><code class="docutils literal"><span class="pre">dfhack.internal.threadid()</span></code></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">New function: <code class="docutils literal"><span class="pre">widgets.Pages:getSelectedPage()</span></code></p>
+</li>
+<li><p class="first">Added a <code class="docutils literal"><span class="pre">key</span></code> option to EditField and FilteredList widgets</p>
+</li>
+<li><p class="first">Fixed an issue preventing <code class="docutils literal"><span class="pre">repeatUtil.cancel()</span></code> from working when called
+from the callback</p>
+</li>
+</ul>
+</div>
+<div class="section" id="ruby">
+<h3>Ruby<a class="headerlink" href="#ruby" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed a crash when creating new instances of DF virtual classes (e.g. fixes a
+<a class="reference internal" href="_auto/base.html#lever"><span class="std std-ref">lever</span></a> crash)</li>
+<li>Ruby scripts can now be loaded from any script paths specified (from script-
+paths.txt or registered through the Lua API)</li>
+<li><code class="docutils literal"><span class="pre">unit_find()</span></code> now uses <code class="docutils literal"><span class="pre">Gui::getSelectedUnit()</span></code> and works in more places
+(e.g. <a class="reference internal" href="_auto/base.html#exterminate"><span class="std std-ref">exterminate</span></a> now works from more screens, like <a class="reference internal" href="Plugins.html#command-prompt"><span class="std std-ref">command-prompt</span></a>)</li>
+</ul>
+</div>
+<div class="section" id="new-internal-commands">
+<h3>New Internal Commands<a class="headerlink" href="#new-internal-commands" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Core.html#alias"><span class="std std-ref">alias</span></a>: allows configuring aliases for other commands</li>
+</ul>
+</div>
+<div class="section" id="new-plugins">
+<h3>New Plugins<a class="headerlink" href="#new-plugins" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#orders"><span class="std std-ref">orders</span></a>: Manipulate manager orders</li>
+<li><a class="reference internal" href="Plugins.html#pathable"><span class="std std-ref">pathable</span></a>: Back-end for <a class="reference internal" href="_auto/gui.html#gui-pathable"><span class="std std-ref">gui/pathable</span></a></li>
+</ul>
+</div>
+<div class="section" id="new-scripts">
+<h3>New Scripts<a class="headerlink" href="#new-scripts" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#clear-smoke"><span class="std std-ref">clear-smoke</span></a>: Removes all smoke from the map</li>
+<li><a class="reference internal" href="_auto/base.html#empty-bin"><span class="std std-ref">empty-bin</span></a>: Empty a bin onto the floor</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-retrieve-units"><span class="std std-ref">fix/retrieve-units</span></a>: Spawns stuck invaders/guests</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-stuck-merchants"><span class="std std-ref">fix/stuck-merchants</span></a>: Dismisses stuck merchants that haven’t entered the map yet</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-pathable"><span class="std std-ref">gui/pathable</span></a>: View whether tiles on the map can be pathed to</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-teleport"><span class="std std-ref">gui/teleport</span></a>: A front-end for the <a class="reference internal" href="_auto/base.html#teleport"><span class="std std-ref">teleport</span></a> script</li>
+<li><a class="reference internal" href="Scripts-removed.html#warn-stuck-trees"><span class="std std-ref">warn-stuck-trees</span></a>: Detects citizens stuck in trees</li>
+</ul>
+</div>
+<div class="section" id="new-tweaks">
+<h3>New Tweaks<a class="headerlink" href="#new-tweaks" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> burrow-name-cancel: Implements the “back” option when renaming a
+burrow, which currently does nothing (<a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=1518">Bug 1518</a>)</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> cage-butcher: Adds an option to butcher units when viewing cages with “q”</li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h3>Fixes<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Enforced use of <code class="docutils literal"><span class="pre">stdout.log</span></code> and <code class="docutils literal"><span class="pre">stderr.log</span></code> (instead of their <code class="docutils literal"><span class="pre">.txt</span></code>
+counterparts) on Windows</p>
+</li>
+<li><p class="first">Fixed <code class="docutils literal"><span class="pre">getItemBaseValue()</span></code> for cheese, sheets and instruments</p>
+</li>
+<li><p class="first">Fixed alignment in:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal"><span class="pre">viewscreen_choose_start_sitest</span></code></li>
+<li><code class="docutils literal"><span class="pre">viewscreen_export_graphical_mapst</span></code></li>
+<li><code class="docutils literal"><span class="pre">viewscreen_setupadventurest</span></code></li>
+<li><code class="docutils literal"><span class="pre">viewscreen_setupdwarfgamest</span></code></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#adv-max-skills"><span class="std std-ref">adv-max-skills</span></a>: fixed error due to viewscreen changes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>: fixed a crash when assigning haulers while traders are active</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>: fixed an issue that prevented certain numbers from being used
+in building names</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>dialogs are now closed permanently when disabled from the settings UI</li>
+<li>fixed an issue that could have prevented closing dialogs opened by pressing “s”</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a>: stopped the sand indicator from overlapping dialogs</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: fixed some crashes and site map issues</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/devel.html#devel-find-offsets"><span class="std std-ref">devel/find-offsets</span></a>: fixed <code class="docutils literal"><span class="pre">current_weather</span></code> scan</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-extended-status"><span class="std std-ref">gui/extended-status</span></a>: fixed an error when no beds are available</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-family-affairs"><span class="std std-ref">gui/family-affairs</span></a>: fixed issues with assigning lovers</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>made keybinding display order consistent</li>
+<li>stopped keys from performing actions in help screen</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-manager-quantity"><span class="std std-ref">gui/manager-quantity</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>now allows orders with a limit of 0</li>
+<li>fixed screen detection</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-mechanisms"><span class="std std-ref">gui/mechanisms</span></a>, <a class="reference internal" href="_auto/gui.html#gui-room-list"><span class="std std-ref">gui/room-list</span></a>: fixed an issue when recentering the map when exiting</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#lever"><span class="std std-ref">lever</span></a>: prevented pulling non-lever buildings, which can cause crashes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#markdown"><span class="std std-ref">markdown</span></a>: fixed file encoding</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>fixed when popup announcements are present</li>
+<li>added checks to ensure that the current game mode is restored</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#resume"><span class="std std-ref">resume</span></a>: stopped drawing on the map border</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#show-unit-syndromes"><span class="std std-ref">show-unit-syndromes</span></a>: fixed an error when handling some syndromes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#strangemood"><span class="std std-ref">strangemood</span></a>: fixed some issues with material searches</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#view-item-info"><span class="std std-ref">view-item-info</span></a>: fixed a color-related error for some materials</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id3">
+<h3>Misc Improvements<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Docs: prevented automatic hyphenation in some browsers, which was producing
+excessive hyphenation sometimes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#command-prompt"><span class="std std-ref">command-prompt</span></a>: invoking <code class="docutils literal"><span class="pre">command-prompt</span></code> a second time now hides the prompt</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-extended-status"><span class="std std-ref">gui/extended-status</span></a>: added an option to assign/replace the manager</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-load-screen"><span class="std std-ref">gui/load-screen</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>adjusted dialog width for long folder names</li>
+<li>added modification times and DF versions to dialog</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-mechanisms"><span class="std std-ref">gui/mechanisms</span></a>, <a class="reference internal" href="_auto/gui.html#gui-room-list"><span class="std std-ref">gui/room-list</span></a>, <a class="reference internal" href="_auto/gui.html#gui-siege-engine"><span class="std std-ref">gui/siege-engine</span></a>: add and list “exit to map” options</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#lever"><span class="std std-ref">lever</span></a>: added support for pulling levers at high priority</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#markdown"><span class="std std-ref">markdown</span></a>: now recognizes <code class="docutils literal"><span class="pre">-n</span></code> in addition to <code class="docutils literal"><span class="pre">/n</span></code></p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: more data exported, used by Armok Vision v0.17.0</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#resume"><span class="std std-ref">resume</span></a>, <a class="reference internal" href="Plugins.html#siege-engine"><span class="std std-ref">siege-engine</span></a>: improved compatibility with GUI-hooking plugins (like TWBT)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Core.html#sc-script"><span class="std std-ref">sc-script</span></a>: improved help text</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#teleport"><span class="std std-ref">teleport</span></a>: can now be used as a module</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> embark-profile-name: now enabled in <code class="docutils literal"><span class="pre">dfhack.init-example</span></code></p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> hotkey-clear: fixed display on larger screens</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-r1">
+<h2><a class="toc-backref" href="#id126">DFHack 0.43.05-r1</a><a class="headerlink" href="#dfhack-0-43-05-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id4">
+<h3>Internals<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>64-bit support on all platforms</li>
+<li>Several structure fixes to match 64-bit DF’s memory layout</li>
+<li>Added <code class="docutils literal"><span class="pre">DFHack::Job::removeJob()</span></code> function</li>
+<li>New module: <code class="docutils literal"><span class="pre">Designations</span></code> - handles designation creation (currently for plants only)</li>
+<li>Added <code class="docutils literal"><span class="pre">Gui::getSelectedPlant()</span></code></li>
+<li>Added <code class="docutils literal"><span class="pre">Units::getMainSocialActivity()</span></code>, <code class="docutils literal"><span class="pre">Units::getMainSocialEvent()</span></code></li>
+<li>Visual Studio 2015 now required to build on Windows instead of 2010</li>
+<li>GCC 4.8 or newer required to build on Linux and OS X (and now supported on OS X)</li>
+<li>Updated TinyXML from 2.5.3 to 2.6.2</li>
+<li>Added the ability to download files manually before building</li>
+</ul>
+</div>
+<div class="section" id="id5">
+<h3>Lua<a class="headerlink" href="#id5" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Lua has been updated to 5.3 - see <a class="reference external" href="http://www.lua.org/manual/5.3/readme.html">http://www.lua.org/manual/5.3/readme.html</a> for details</p>
+<blockquote>
+<div><ul class="simple">
+<li>Floats are no longer implicitly converted to integers in DFHack API calls</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">df.new()</span></code> supports more types: <code class="docutils literal"><span class="pre">char</span></code>, <code class="docutils literal"><span class="pre">intptr_t</span></code>, <code class="docutils literal"><span class="pre">uintptr_t</span></code>, <code class="docutils literal"><span class="pre">long</span></code>, <code class="docutils literal"><span class="pre">unsigned</span> <span class="pre">long</span></code></p>
+</li>
+<li><p class="first">String representations of vectors and a few other containers now include their lengths</p>
+</li>
+<li><p class="first">Added a <code class="docutils literal"><span class="pre">tile-material</span></code> module</p>
+</li>
+<li><p class="first">Added a <code class="docutils literal"><span class="pre">Painter:key_string()</span></code> method</p>
+</li>
+<li><p class="first">Made <code class="docutils literal"><span class="pre">dfhack.gui.revealInDwarfmodeMap()</span></code> available</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id6">
+<h3>Ruby<a class="headerlink" href="#id6" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added support for loading ruby 2.x libraries</li>
+</ul>
+</div>
+<div class="section" id="id7">
+<h3>New Plugins<a class="headerlink" href="#id7" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#dwarfvet"><span class="std std-ref">dwarfvet</span></a> enables animal caretaking</li>
+<li><a class="reference internal" href="Plugins.html#generated-creature-renamer"><span class="std std-ref">generated-creature-renamer</span></a>: Renames generated creature IDs for use with graphics packs</li>
+<li><a class="reference internal" href="Plugins.html#labormanager"><span class="std std-ref">labormanager</span></a> (formerly autolabor2): a more advanced alternative to <a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a></li>
+<li><a class="reference internal" href="Plugins.html#misery"><span class="std std-ref">misery</span></a>: re-added and updated for the 0.4x series</li>
+<li><a class="reference internal" href="Plugins.html#title-folder"><span class="std std-ref">title-folder</span></a>: shows DF folder name in window title bar when enabled</li>
+</ul>
+</div>
+<div class="section" id="id8">
+<h3>New Scripts<a class="headerlink" href="#id8" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#adv-rumors"><span class="std std-ref">adv-rumors</span></a>: improves the “Bring up specific incident or rumor” menu in adventure mode</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-tile-occupancy"><span class="std std-ref">fix/tile-occupancy</span></a>: Clears bad occupancy flags on the selected tile.</li>
+<li><a class="reference internal" href="_auto/base.html#install-info"><span class="std std-ref">install-info</span></a>: Logs basic troubleshooting information about the current DFHack installation</li>
+<li><a class="reference internal" href="_auto/base.html#load-save"><span class="std std-ref">load-save</span></a>: loads a save non-interactively</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-change-build-menu"><span class="std std-ref">modtools/change-build-menu</span></a>: Edit the build mode sidebar menus</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-if-entity"><span class="std std-ref">modtools/if-entity</span></a>: Run a command if the current entity matches a given ID</li>
+<li><a class="reference internal" href="_auto/base.html#season-palette"><span class="std std-ref">season-palette</span></a>: Swap color palettes with the changes of the seasons</li>
+<li><a class="reference internal" href="_auto/base.html#unforbid"><span class="std std-ref">unforbid</span></a>: Unforbids all items</li>
+</ul>
+</div>
+<div class="section" id="id9">
+<h3>New Tweaks<a class="headerlink" href="#id9" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak condition-material</span></a>: fixes a crash in the work order condition material list</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak hotkey-clear</span></a>: adds an option to clear bindings from DF hotkeys</li>
+</ul>
+</div>
+<div class="section" id="id10">
+<h3>Fixes<a class="headerlink" href="#id10" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">The DF path on OS X can now contain spaces and <code class="docutils literal"><span class="pre">:</span></code> characters</p>
+</li>
+<li><p class="first">Buildings::setOwner() changes now persist properly when saved</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">ls</span></code> now lists scripts in folders other than <code class="docutils literal"><span class="pre">hack/scripts</span></code>, when applicable</p>
+</li>
+<li><p class="first">Fixed <code class="docutils literal"><span class="pre">plug</span></code> output alignment for plugins with long names</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: fixed support for emotion names</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autochop"><span class="std std-ref">autochop</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>fixed several issues with job creation and removal</li>
+<li>stopped designating the center tile (unreachable) for large trees</li>
+<li>stopped options from moving when enabling and disabling burrows</li>
+<li>fixed display of unnamed burrows</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/devel.html#devel-find-offsets"><span class="std std-ref">devel/find-offsets</span></a>: fixed a crash when vtables used by globals aren’t available</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#getplants"><span class="std std-ref">getplants</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>fixed several issues with job creation and removal</li>
+<li>stopped designating the center tile (unreachable) for large trees</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-workflow"><span class="std std-ref">gui/workflow</span></a>: added extra keybinding to work with <a class="reference internal" href="_auto/gui.html#gui-extended-status"><span class="std std-ref">gui/extended-status</span></a></p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Fixed crash when selecting a profession from an empty list</li>
+<li>Custom professions are now sorted alphabetically more reliably</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-item"><span class="std std-ref">modtools/create-item</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>made gloves usable by specifying handedness</li>
+<li>now creates pairs of boots and gloves</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>stopped permanently overwriting the creature creation menu in arena mode</li>
+<li>now uses non-English names</li>
+<li>added <code class="docutils literal"><span class="pre">-setUnitToFort</span></code> option to make a unit a civ/group member more easily</li>
+<li>fixed some issues where units would appear in unrevealed areas of the map</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: fixed errors with plant growths</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: fixed a crash when serializing the local map</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#ruby"><span class="std std-ref">ruby</span></a>: fixed a crash when unloading the plugin on Windows</p>
+</li>
+<li><p class="first"><a class="reference internal" href="../plugins/stonesense/docs/Stonesense.html#stonesense"><span class="std std-ref">Stonesense</span></a>: disabled overlay in STANDARD-based print modes to prevent crashes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#title-version"><span class="std std-ref">title-version</span></a>: now hidden when loading an arena</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id11">
+<h3>Misc Improvements<a class="headerlink" href="#id11" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Documented all default keybindings (from <code class="file docutils literal"><span class="pre">dfhack.init-example</span></code>) in the
+docs for the relevant commands; updates enforced by build system.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#autounsuspend"><span class="std std-ref">autounsuspend</span></a>: reduced update frequency to address potential performance issues</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-extended-status"><span class="std std-ref">gui/extended-status</span></a>: added a feature to queue beds</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#lua"><span class="std std-ref">lua</span></a> and <a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a> now support the same aliases (<code class="docutils literal"><span class="pre">scr</span></code>, <code class="docutils literal"><span class="pre">unit</span></code>, etc.)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: added social activities to job column</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: Added support for</p>
+<blockquote>
+<div><ul class="simple">
+<li>world map snow coverage</li>
+<li>spatters</li>
+<li>wall info</li>
+<li>site towers, world buildings</li>
+<li>surface material</li>
+<li>building items</li>
+<li>DF version info</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#title-version"><span class="std std-ref">title-version</span></a>: Added a prerelease indicator</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: Re-added <code class="docutils literal"><span class="pre">Alt-W</span></code> keybindings</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-beta2">
+<h2><a class="toc-backref" href="#id127">DFHack 0.43.05-beta2</a><a class="headerlink" href="#dfhack-0-43-05-beta2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id12">
+<h3>Fixes<a class="headerlink" href="#id12" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed Buildings::updateBuildings(), along with building creation/deletion events</li>
+<li>Fixed <code class="docutils literal"><span class="pre">plug</span></code> output alignment for plugins with long names</li>
+<li>Fixed a crash that happened when a <code class="docutils literal"><span class="pre">LUA_PATH</span></code> environment variable was set</li>
+<li><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: fixed number conversion</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-workflow"><span class="std std-ref">gui/workflow</span></a>: fixed range editing producing the wrong results for certain numbers</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>: now uses non-English names</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: fixed errors with plant growths</li>
+<li><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: fixed a crash when serializing the local map</li>
+<li><a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a>: fixed an issue with non-integer manager order limits</li>
+<li><a class="reference internal" href="Plugins.html#title-folder"><span class="std std-ref">title-folder</span></a>: fixed compatibility issues with certain SDL libraries on macOS</li>
+</ul>
+</div>
+<div class="section" id="structures">
+<h3>Structures<a class="headerlink" href="#structures" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added some missing renderer VTable addresses on macOS</li>
+<li><code class="docutils literal"><span class="pre">entity.resources.organic</span></code>: identified <code class="docutils literal"><span class="pre">parchment</span></code></li>
+<li><code class="docutils literal"><span class="pre">entity_sell_category</span></code>: added <code class="docutils literal"><span class="pre">Parchment</span></code> and <code class="docutils literal"><span class="pre">CupsMugsGoblets</span></code></li>
+<li><code class="docutils literal"><span class="pre">ui_advmode_menu</span></code>: added <code class="docutils literal"><span class="pre">Build</span></code></li>
+<li><code class="docutils literal"><span class="pre">ui_unit_view_mode</span></code>: added <code class="docutils literal"><span class="pre">PrefOccupation</span></code></li>
+<li><code class="docutils literal"><span class="pre">unit_skill</span></code>: identified <code class="docutils literal"><span class="pre">natural_skill_lvl</span></code> (was <code class="docutils literal"><span class="pre">unk_1c</span></code>)</li>
+<li><code class="docutils literal"><span class="pre">viewscreen_jobmanagementst</span></code>: identified <code class="docutils literal"><span class="pre">max_workshops</span></code></li>
+<li><code class="docutils literal"><span class="pre">viewscreen_overallstatusst</span></code>:  made <code class="docutils literal"><span class="pre">visible_pages</span></code> an enum</li>
+<li><code class="docutils literal"><span class="pre">viewscreen_pricest</span></code>: identified fields</li>
+<li><code class="docutils literal"><span class="pre">viewscreen_workquota_conditionst</span></code>: gave some fields <code class="docutils literal"><span class="pre">unk</span></code> names</li>
+</ul>
+</div>
+<div class="section" id="api-changes">
+<h3>API Changes<a class="headerlink" href="#api-changes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Allowed the Lua API to accept integer-like floats and strings when expecting an integer</li>
+<li>Lua: New <code class="docutils literal"><span class="pre">Painter:key_string()</span></code> method</li>
+<li>Lua: Added <code class="docutils literal"><span class="pre">dfhack.getArchitecture()</span></code> and <code class="docutils literal"><span class="pre">dfhack.getArchitectureName()</span></code></li>
+</ul>
+</div>
+<div class="section" id="additions-removals">
+<h3>Additions/Removals:<a class="headerlink" href="#additions-removals" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added <a class="reference internal" href="_auto/base.html#adv-rumors"><span class="std std-ref">adv-rumors</span></a> script: improves the “Bring up specific incident or rumor” menu in adventure mode</li>
+<li>Added <a class="reference internal" href="_auto/base.html#install-info"><span class="std std-ref">install-info</span></a> script for basic troubleshooting</li>
+<li>Added <a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak condition-material</span></a>: fixes a crash in the work order condition material list</li>
+<li>Added <a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak hotkey-clear</span></a>: adds an option to clear bindings from DF hotkeys</li>
+<li><a class="reference internal" href="_auto/base.html#autofarm"><span class="std std-ref">autofarm</span></a>: reverted local biome detection (from 0.43.05-alpha3)</li>
+</ul>
+</div>
+<div class="section" id="other-changes">
+<h3>Other Changes<a class="headerlink" href="#other-changes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added a DOWNLOAD_RUBY CMake option, to allow use of a system/external ruby library</li>
+<li>Added the ability to download files manually before building</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-extended-status"><span class="std std-ref">gui/extended-status</span></a>: added a feature to queue beds</li>
+<li><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: added building items, DF version info</li>
+<li><a class="reference internal" href="../plugins/stonesense/docs/Stonesense.html#stonesense"><span class="std std-ref">Stonesense</span></a>: Added support for 64-bit macOS and Linux</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-beta1">
+<h2><a class="toc-backref" href="#id128">DFHack 0.43.05-beta1</a><a class="headerlink" href="#dfhack-0-43-05-beta1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id13">
+<h3>Fixes<a class="headerlink" href="#id13" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed various crashes on 64-bit Windows related to DFHack screens, notably <a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a></li>
+<li>Fixed addresses of next_id globals on 64-bit Linux (fixes an <a class="reference internal" href="Plugins.html#automaterial"><span class="std std-ref">automaterial</span></a>/box-select crash)</li>
+<li><code class="docutils literal"><span class="pre">ls</span></code> now lists scripts in folders other than <code class="docutils literal"><span class="pre">hack/scripts</span></code>, when applicable</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>: stopped permanently overwriting the creature creation
+menu in arena mode</li>
+<li><a class="reference internal" href="_auto/base.html#season-palette"><span class="std std-ref">season-palette</span></a>: fixed an issue where only part of the screen was redrawn
+after changing the color scheme</li>
+<li><a class="reference internal" href="Plugins.html#title-version"><span class="std std-ref">title-version</span></a>: now hidden when loading an arena</li>
+</ul>
+</div>
+<div class="section" id="id14">
+<h3>Structures<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">file_compressorst</span></code>: fixed field sizes on x64</li>
+<li><code class="docutils literal"><span class="pre">historical_entity</span></code>: fixed alignment on x64</li>
+<li><code class="docutils literal"><span class="pre">ui_sidebar_menus.command_line</span></code>: fixed field sizes on x64</li>
+<li><code class="docutils literal"><span class="pre">viewscreen_choose_start_sitest</span></code>: added 3 missing fields, renamed <code class="docutils literal"><span class="pre">in_embark_only_warning</span></code></li>
+<li><code class="docutils literal"><span class="pre">viewscreen_layer_arena_creaturest</span></code>: identified more fields</li>
+<li><code class="docutils literal"><span class="pre">world.math</span></code>: identified</li>
+<li><code class="docutils literal"><span class="pre">world.murky_pools</span></code>: identified</li>
+</ul>
+</div>
+<div class="section" id="id15">
+<h3>Additions/Removals<a class="headerlink" href="#id15" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#generated-creature-renamer"><span class="std std-ref">generated-creature-renamer</span></a>: Renames generated creature IDs for use with graphics packs</li>
+</ul>
+</div>
+<div class="section" id="id16">
+<h3>Other Changes<a class="headerlink" href="#id16" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#title-version"><span class="std std-ref">title-version</span></a>: Added a prerelease indicator</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-alpha4">
+<h2><a class="toc-backref" href="#id129">DFHack 0.43.05-alpha4</a><a class="headerlink" href="#dfhack-0-43-05-alpha4" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id17">
+<h3>Fixes<a class="headerlink" href="#id17" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed an issue with uninitialized bitfields that was causing several issues
+(disappearing buildings in <a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>’s planning mode, strange behavior in
+the extended <a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a> screen, and likely other problems). This issue was
+introduced in 0.43.05-alpha3.</li>
+<li><a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a>: Fixed an “integer expected” error</li>
+</ul>
+</div>
+<div class="section" id="id18">
+<h3>Structures<a class="headerlink" href="#id18" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Located several globals on 64-bit Linux: flows, timed_events, ui_advmode,
+ui_building_assign_type, ui_building_assign_is_marked,
+ui_building_assign_units, ui_building_assign_items, and ui_look_list. This
+fixes <a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>, <a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>, and <a class="reference internal" href="_auto/base.html#force"><span class="std std-ref">force</span></a>, among others.</li>
+<li><code class="docutils literal"><span class="pre">ui_sidebar_menus</span></code>: Fixed some x64 alignment issues</li>
+</ul>
+</div>
+<div class="section" id="id19">
+<h3>Additions/Removals<a class="headerlink" href="#id19" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added <a class="reference internal" href="_auto/fix.html#fix-tile-occupancy"><span class="std std-ref">fix/tile-occupancy</span></a>: Clears bad occupancy flags on the selected tile.
+Useful for fixing blocked tiles introduced by the above buildingplan issue.</li>
+<li>Added a Lua <code class="docutils literal"><span class="pre">tile-material</span></code> module</li>
+</ul>
+</div>
+<div class="section" id="id20">
+<h3>Other Changes<a class="headerlink" href="#id20" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#labormanager"><span class="std std-ref">labormanager</span></a>: Add support for shell crafts</li>
+<li><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: Custom professions are now sorted alphabetically more reliably</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-05-alpha3">
+<h2><a class="toc-backref" href="#id130">DFHack 0.43.05-alpha3</a><a class="headerlink" href="#dfhack-0-43-05-alpha3" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id21">
+<h3>Fixes<a class="headerlink" href="#id21" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: fixed support for emotion names</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#autofarm"><span class="std std-ref">autofarm</span></a>: Made surface farms detect local biome</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/devel.html#devel-export-dt-ini"><span class="std std-ref">devel/export-dt-ini</span></a>: fixed squad_schedule_entry size</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#labormanager"><span class="std std-ref">labormanager</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Now accounts for unit attributes</li>
+<li>Made instrument-building jobs work (constructed instruments)</li>
+<li>Fixed deconstructing constructed instruments</li>
+<li>Fixed jobs in bowyer’s shops</li>
+<li>Fixed trap component jobs</li>
+<li>Fixed multi-material construction jobs</li>
+<li>Fixed deconstruction of buildings containing items</li>
+<li>Fixed interference caused by “store item in vehicle” jobs</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: Fixed crash when selecting a profession from an empty list</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#ruby"><span class="std std-ref">ruby</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Fixed crash on Win64 due to truncated global addresses</li>
+<li>Fixed compilation on Win64</li>
+<li>Use correct raw string length with encodings</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id22">
+<h3>Structures<a class="headerlink" href="#id22" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Changed many <code class="docutils literal"><span class="pre">comment</span></code> XML attributes with version numbers to use new
+<code class="docutils literal"><span class="pre">since</span></code> attribute instead</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">activity_event_conflictst.sides</span></code>: named many fields</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">building_def.build_key</span></code>: fixed size on 64-bit Linux and OS X</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">historical_kills</span></code>:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal"><span class="pre">unk_30</span></code> -&gt; <code class="docutils literal"><span class="pre">killed_underground_region</span></code></li>
+<li><code class="docutils literal"><span class="pre">unk_40</span></code> -&gt; <code class="docutils literal"><span class="pre">killed_region</span></code></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">historical_kills.killed_undead</span></code>: removed <code class="docutils literal"><span class="pre">skeletal</span></code> flag</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">ui_advmode</span></code>: aligned enough so that it doesn’t crash (64-bit OS X/Linux)</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">ui_advmode.show_menu</span></code>: changed from bool to enum</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">unit_personality.emotions.flags</span></code>: now a bitfield</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id23">
+<h3>API Changes<a class="headerlink" href="#id23" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added <code class="docutils literal"><span class="pre">DFHack::Job::removeJob()</span></code> function</li>
+<li>C++: Removed bitfield constructors that take an initial value. These kept
+bitfields from being used in unions. Set <code class="docutils literal"><span class="pre">bitfield.whole</span></code> directly instead.</li>
+<li>Lua: <code class="docutils literal"><span class="pre">bitfield.whole</span></code> now returns an integer, not a decimal</li>
+</ul>
+</div>
+<div class="section" id="id24">
+<h3>Additions/Removals<a class="headerlink" href="#id24" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Removed source for treefarm plugin (wasn’t built)</li>
+<li>Added <a class="reference internal" href="_auto/modtools.html#modtools-change-build-menu"><span class="std std-ref">modtools/change-build-menu</span></a>: Edit the build mode sidebar menus</li>
+<li>Added <a class="reference internal" href="_auto/modtools.html#modtools-if-entity"><span class="std std-ref">modtools/if-entity</span></a>: Run a command if the current entity matches a
+given ID</li>
+<li>Added <a class="reference internal" href="_auto/base.html#season-palette"><span class="std std-ref">season-palette</span></a>: Swap color palettes with the changes of the seasons</li>
+</ul>
+</div>
+<div class="section" id="id25">
+<h3>Other changes<a class="headerlink" href="#id25" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Changed minimum GCC version to 4.8 on OS X and Linux (earlier versions
+wouldn’t have worked on Linux anyway)</li>
+<li>Updated TinyXML from 2.5.3 to 2.6.2</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-43-03-r1">
+<h2><a class="toc-backref" href="#id131">DFHack 0.43.03-r1</a><a class="headerlink" href="#dfhack-0-43-03-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id26">
+<h3>Lua<a class="headerlink" href="#id26" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Label widgets can now easily register handlers for mouse clicks</li>
+</ul>
+</div>
+<div class="section" id="new-features">
+<h3>New Features<a class="headerlink" href="#new-features" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: allow syndrome name as <code class="docutils literal"><span class="pre">-thought</span></code> argument</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a></p>
+<blockquote>
+<div><ul class="simple">
+<li>Added ability to insert default types into containers. For primitive types leave the type entry empty, and for references use <code class="docutils literal"><span class="pre">*</span></code>.</li>
+<li>Added <code class="docutils literal"><span class="pre">shift-esc</span></code> binding to fully exit from editor</li>
+<li>Added <code class="docutils literal"><span class="pre">gui/gm-editor</span> <span class="pre">toggle</span></code> command to toggle editor visibility (saving position)</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Added an option to attach units to an existing wild animal population</li>
+<li>Added an option to attach units to a map feature</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id27">
+<h3>Fixes<a class="headerlink" href="#id27" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#autofarm"><span class="std std-ref">autofarm</span></a>: Can now handle crops that grow for more than a season</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#combine-plants"><span class="std std-ref">combine-plants</span></a>: Fixed recursion into sub-containers</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#createitem"><span class="std std-ref">createitem</span></a>: Now moves multiple created items to cursor correctly</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: Improved handling of unknown enum items (fixes many errors)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">gui/create-item</span></a>: Fixed quality when creating multiple items</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-mod-manager"><span class="std std-ref">gui/mod-manager</span></a>: Fixed error when mods folder doesn’t exist</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: Fixed handling of items with subtypes</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#reveal"><span class="std std-ref">reveal</span></a>: <code class="docutils literal"><span class="pre">revflood</span></code> now handles constructed stairs with floors in generated fortresses</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Can order metal mechanisms</li>
+<li>Fixed material category of thread-spinning jobs</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id28">
+<h3>Misc Improvements<a class="headerlink" href="#id28" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>The built-in <code class="docutils literal"><span class="pre">ls</span></code> command now wraps the descriptions of commands</li>
+<li><a class="reference internal" href="_auto/base.html#catsplosion"><span class="std std-ref">catsplosion</span></a>: now a lua script instead of a plugin</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-diplomats"><span class="std std-ref">fix/diplomats</span></a>: replaces <code class="docutils literal"><span class="pre">fixdiplomats</span></code></li>
+<li><a class="reference internal" href="_auto/fix.html#fix-merchants"><span class="std std-ref">fix/merchants</span></a>: replaces <code class="docutils literal"><span class="pre">fixmerchants</span></code></li>
+<li><a class="reference internal" href="_auto/base.html#prefchange"><span class="std std-ref">prefchange</span></a>: added a <code class="docutils literal"><span class="pre">help</span></code> option</li>
+<li><a class="reference internal" href="Plugins.html#probe"><span class="std std-ref">probe</span></a>: now displays raw tiletype names</li>
+<li>Unified script documentation and in-terminal help options</li>
+</ul>
+</div>
+<div class="section" id="removed">
+<h3>Removed<a class="headerlink" href="#removed" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> manager-quantity: no longer needed</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-42-06-r1">
+<h2><a class="toc-backref" href="#id132">DFHack 0.42.06-r1</a><a class="headerlink" href="#dfhack-0-42-06-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id29">
+<h3>Internals<a class="headerlink" href="#id29" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Commands to run on startup can be specified on the command line with <code class="docutils literal"><span class="pre">+</span></code></p>
+<blockquote>
+<div><p>Example:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="o">./</span><span class="n">dfhack</span> <span class="o">+</span><span class="n">devel</span><span class="o">/</span><span class="nb">print</span><span class="o">-</span><span class="n">args</span> <span class="n">example</span>
+<span class="s2">&quot;Dwarf Fortress.exe&quot;</span> <span class="o">+</span><span class="n">devel</span><span class="o">/</span><span class="nb">print</span><span class="o">-</span><span class="n">args</span> <span class="n">example</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p class="first">Prevented plugins with active viewscreens from being unloaded and causing a crash</p>
+</li>
+<li><p class="first">Additional script search paths can be specified in dfhack-config/script-paths.txt</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id30">
+<h3>Lua<a class="headerlink" href="#id30" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Lua API.html#building-hacks"><span class="std std-ref">Building-hacks</span></a> now supports <code class="docutils literal"><span class="pre">auto_gears</span></code> flags. It automatically finds and animates gears in building definition</li>
+<li>Changed how <a class="reference internal" href="Lua API.html#eventful"><span class="std std-ref">Eventful</span></a> triggers reaction complete. Now it has <code class="docutils literal"><span class="pre">onReactionComplete</span></code> and <code class="docutils literal"><span class="pre">onReactionCompleting</span></code>. Second one can be canceled</li>
+</ul>
+</div>
+<div class="section" id="id31">
+<h3>New Plugins<a class="headerlink" href="#id31" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autogems"><span class="std std-ref">autogems</span></a>: Creates a new Workshop Order setting, automatically cutting rough gems</li>
+</ul>
+</div>
+<div class="section" id="id32">
+<h3>New Scripts<a class="headerlink" href="#id32" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/devel.html#devel-save-version"><span class="std std-ref">devel/save-version</span></a>: Displays DF version information about the current save</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-extra-gamelog"><span class="std std-ref">modtools/extra-gamelog</span></a>: replaces <code class="docutils literal"><span class="pre">log-region</span></code>, <code class="docutils literal"><span class="pre">soundsense-season</span></code>, and <code class="docutils literal"><span class="pre">soundsense</span></code></li>
+</ul>
+</div>
+<div class="section" id="id33">
+<h3>New Features<a class="headerlink" href="#id33" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>: Support for floodgates, grates, and bars</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#colonies"><span class="std std-ref">colonies</span></a>: new <code class="docutils literal"><span class="pre">place</span></code> subcommand and supports any vermin (default honey bees)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a>: Added a confirmation for retiring locations</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: Exports more information (poetic/musical/dance forms, written/artifact content, landmasses, extra histfig information, and more)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: Support for new screens:</p>
+<blockquote>
+<div><ul class="simple">
+<li>location occupation assignment</li>
+<li>civilization animal training knowledge</li>
+<li>animal trainer assignment</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li><code class="docutils literal"><span class="pre">tweak</span> <span class="pre">block-labors</span></code>: Prevents labors that can’t be used from being toggled</li>
+<li><code class="docutils literal"><span class="pre">tweak</span> <span class="pre">hide-priority</span></code>: Adds an option to hide designation priority indicators</li>
+<li><code class="docutils literal"><span class="pre">tweak</span> <span class="pre">title-start-rename</span></code>: Adds a safe rename option to the title screen “Start Playing” menu</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Added <code class="docutils literal"><span class="pre">unassign</span></code> subcommand</li>
+<li>Added <code class="docutils literal"><span class="pre">only</span></code> option to <code class="docutils literal"><span class="pre">assign</span></code> subcommand</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id34">
+<h3>Fixes<a class="headerlink" href="#id34" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Fixed a crash bug caused by the historical figures DFHack uses to store persistent data.</p>
+</li>
+<li><p class="first">More plugins should recognize non-dwarf citizens</p>
+</li>
+<li><p class="first">Fixed a possible crash from cloning jobs</p>
+</li>
+<li><p class="first">moveToBuilding() now sets flags for items that aren’t a structural part of the building properly</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>, <a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: Made trading work when multiple caravans are present but only some can trade</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a> note-delete: No longer interferes with name entry</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: Handles entities without specific races, and a few other fixes for things new to v0.42</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>: Fixed a bug involving teleporting mothers but not the babies they’re holding.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#gaydar"><span class="std std-ref">gaydar</span></a>: Fixed text display on OS X/Linux and failure with soul-less creatures</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>allowed editing of non-dwarf citizens</li>
+<li>stopped ghosts and visitors from being editable</li>
+<li>fixed applying last custom profession</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>: Stopped making units without civs historical figures</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-force"><span class="std std-ref">modtools/force</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Removed siege option</li>
+<li>Prevented a crash resulting from a bad civilization option</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#showmood"><span class="std std-ref">showmood</span></a>: Fixed name display on OS X/Linux</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#view-item-info"><span class="std std-ref">view-item-info</span></a>: Fixed density units</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id35">
+<h3>Misc Improvements<a class="headerlink" href="#id35" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autochop"><span class="std std-ref">autochop</span></a>: Can now edit log minimum/maximum directly and remove limit entirely</li>
+<li><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>, <a class="reference internal" href="Plugins.html#autohauler"><span class="std std-ref">autohauler</span></a>, <a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: Added support for new jobs/labors/skills</li>
+<li><a class="reference internal" href="_auto/base.html#colonies"><span class="std std-ref">colonies</span></a>: now implemented by a script</li>
+<li><a class="reference internal" href="Plugins.html#createitem"><span class="std std-ref">createitem</span></a>: Can now create items anywhere without specifying a unit, as long as a unit exists on the map</li>
+<li><a class="reference internal" href="_auto/devel.html#devel-export-dt-ini"><span class="std std-ref">devel/export-dt-ini</span></a>: Updated for 0.42.06</li>
+<li><a class="reference internal" href="_auto/devel.html#devel-find-offsets"><span class="std std-ref">devel/find-offsets</span></a>: Automated several more scans</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>: Now supports finding some items with a numeric ID (with <code class="docutils literal"><span class="pre">i</span></code>)</li>
+<li><a class="reference internal" href="_auto/base.html#lua"><span class="std std-ref">lua</span></a>: Now supports some built-in variables like <a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>, e.g. <code class="docutils literal"><span class="pre">unit</span></code>, <code class="docutils literal"><span class="pre">screen</span></code></li>
+<li><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: Can now trigger keyboard events</li>
+<li><a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a>: Now offers better control over individual craft jobs</li>
+<li><a class="reference internal" href="_auto/base.html#weather"><span class="std std-ref">weather</span></a>: now implemented by a script</li>
+<li><a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>: colored output</li>
+</ul>
+</div>
+<div class="section" id="id36">
+<h3>Removed<a class="headerlink" href="#id36" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>DFusion: legacy script system, obsolete or replaced by better alternatives</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r5">
+<h2><a class="toc-backref" href="#id133">DFHack 0.40.24-r5</a><a class="headerlink" href="#dfhack-0-40-24-r5" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id37">
+<h3>New Features<a class="headerlink" href="#id37" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Added a <code class="docutils literal"><span class="pre">uniform-delete</span></code> option for military uniform deletion</li>
+<li>Added a basic in-game configuration UI</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id38">
+<h3>Fixes<a class="headerlink" href="#id38" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed a rare crash that could result from running <a class="reference internal" href="Core.html#keybinding"><span class="std std-ref">keybinding</span></a> in onLoadWorld.init</li>
+<li>Script help that doesn’t start with a space is now recognized correctly</li>
+<li><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a>: Fixed issues with haul-delete, route-delete, and squad-disband confirmations intercepting keys too aggressively</li>
+<li><a class="reference internal" href="_auto/base.html#emigration"><span class="std std-ref">emigration</span></a> should work now</li>
+<li><a class="reference internal" href="Plugins.html#fix-unit-occupancy"><span class="std std-ref">fix-unit-occupancy</span></a>: Significantly optimized - up to 2,000 times faster in large fortresses</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">gui/create-item</span></a>: Allow exiting quantity prompt</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-family-affairs"><span class="std std-ref">gui/family-affairs</span></a>: Fixed an issue where lack of relationships wasn’t recognized and other issues</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>: Fixed a possible issue in reclaim fortress mode</li>
+<li><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: Fixed a crash on the military screen</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> max-wheelbarrow: Fixed a minor display issue with large numbers</li>
+<li><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: Fixed a crash related to job postings (and added a fix for existing, broken jobs)</li>
+</ul>
+</div>
+<div class="section" id="id39">
+<h3>Misc Improvements<a class="headerlink" href="#id39" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Unrecognized command feedback now includes more information about plugins</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-dry-buckets"><span class="std std-ref">fix/dry-buckets</span></a>: replaces the <code class="docutils literal"><span class="pre">drybuckets</span></code> plugin</li>
+<li><a class="reference internal" href="_auto/base.html#feature"><span class="std std-ref">feature</span></a>: now implemented by a script</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r4">
+<h2><a class="toc-backref" href="#id134">DFHack 0.40.24-r4</a><a class="headerlink" href="#dfhack-0-40-24-r4" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id40">
+<h3>Internals<a class="headerlink" href="#id40" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>A method for caching screen output is now available to Lua (and C++)</li>
+<li>Developer plugins can be ignored on startup by setting the <code class="docutils literal"><span class="pre">DFHACK_NO_DEV_PLUGINS</span></code> environment variable</li>
+<li>The console on Linux and OS X now recognizes keyboard input between prompts</li>
+<li>JSON libraries available (C++ and Lua)</li>
+<li>More DFHack build information used in plugin version checks and available to plugins and lua scripts</li>
+<li>Fixed a rare overflow issue that could cause crashes on Linux and OS X</li>
+<li>Stopped DF window from receiving input when unfocused on OS X</li>
+<li>Fixed issues with keybindings involving <code class="kbd docutils literal"><span class="pre">Ctrl</span></code><code class="kbd docutils literal"><span class="pre">A</span></code> and <code class="kbd docutils literal"><span class="pre">Ctrl</span></code><code class="kbd docutils literal"><span class="pre">Z</span></code>,
+as well as <code class="kbd docutils literal"><span class="pre">Alt</span></code><code class="kbd docutils literal"><span class="pre">E</span></code>/<code class="kbd docutils literal"><span class="pre">U</span></code>/<code class="kbd docutils literal"><span class="pre">N</span></code> on OS X</li>
+<li>Multiple contexts can now be specified when adding keybindings</li>
+<li>Keybindings can now use <code class="kbd docutils literal"><span class="pre">F10</span></code>-<code class="kbd docutils literal"><span class="pre">F12</span></code> and <code class="kbd docutils literal"><span class="pre">0</span></code>-<code class="kbd docutils literal"><span class="pre">9</span></code></li>
+<li>Plugin system is no longer restricted to plugins that exist on startup</li>
+<li><code class="file docutils literal"><span class="pre">dfhack.init</span></code> file locations significantly generalized</li>
+</ul>
+</div>
+<div class="section" id="id41">
+<h3>Lua<a class="headerlink" href="#id41" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Scripts can be enabled with the built-in <a class="reference internal" href="Core.html#enable"><span class="std std-ref">enable</span></a>/<a class="reference internal" href="Core.html#disable"><span class="std std-ref">disable</span></a> commands</li>
+<li>A new function, <code class="docutils literal"><span class="pre">reqscript()</span></code>, is available as a safer alternative to <code class="docutils literal"><span class="pre">script_environment()</span></code></li>
+<li>Lua viewscreens can choose not to intercept the OPTIONS keybinding</li>
+</ul>
+</div>
+<div class="section" id="id42">
+<h3>New internal commands<a class="headerlink" href="#id42" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Core.html#kill-lua"><span class="std std-ref">kill-lua</span></a>: Interrupt running Lua scripts</li>
+<li><a class="reference internal" href="Core.html#type"><span class="std std-ref">type</span></a>: Show where a command is implemented</li>
+</ul>
+</div>
+<div class="section" id="id43">
+<h3>New plugins<a class="headerlink" href="#id43" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#confirm"><span class="std std-ref">confirm</span></a>: Adds confirmation dialogs for several potentially dangerous actions</li>
+<li><a class="reference internal" href="Plugins.html#fix-unit-occupancy"><span class="std std-ref">fix-unit-occupancy</span></a>: Fixes issues with unit occupancy, such as faulty “unit blocking tile” messages (<a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=3499">Bug 3499</a>)</li>
+<li><a class="reference internal" href="Plugins.html#title-version"><span class="std std-ref">title-version</span></a> (formerly <code class="docutils literal"><span class="pre">vshook</span></code>): Display DFHack version on title screen</li>
+</ul>
+</div>
+<div class="section" id="id44">
+<h3>New scripts<a class="headerlink" href="#id44" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#armoks-blessing"><span class="std std-ref">armoks-blessing</span></a>: Adjust all attributes, personality, age and skills of all dwarves in play</li>
+<li><a class="reference internal" href="_auto/base.html#brainwash"><span class="std std-ref">brainwash</span></a>: brainwash a dwarf (modifying their personality)</li>
+<li><a class="reference internal" href="_auto/base.html#burial"><span class="std std-ref">burial</span></a>:  sets all unowned coffins to allow burial (“-pets” to allow pets too)</li>
+<li><a class="reference internal" href="_auto/base.html#deteriorateclothes"><span class="std std-ref">deteriorateclothes</span></a>: make worn clothes on the ground wear far faster to boost FPS</li>
+<li><a class="reference internal" href="_auto/base.html#deterioratecorpses"><span class="std std-ref">deterioratecorpses</span></a>: make body parts wear away far faster to boost FPS</li>
+<li><a class="reference internal" href="_auto/base.html#deterioratefood"><span class="std std-ref">deterioratefood</span></a>: make food vanish after a few months if not used</li>
+<li><a class="reference internal" href="_auto/base.html#elevate-mental"><span class="std std-ref">elevate-mental</span></a>: elevate all the mental attributes of a unit</li>
+<li><a class="reference internal" href="_auto/base.html#elevate-physical"><span class="std std-ref">elevate-physical</span></a>: elevate all the physical attributes of a unit</li>
+<li><a class="reference internal" href="_auto/base.html#emigration"><span class="std std-ref">emigration</span></a>: stressed dwarves may leave your fortress if they see a chance</li>
+<li><a class="reference internal" href="_auto/base.html#fix-ster"><span class="std std-ref">fix-ster</span></a>:  changes fertility/sterility of animals or dwarves</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-family-affairs"><span class="std std-ref">gui/family-affairs</span></a>: investigate and alter romantic relationships</li>
+<li><a class="reference internal" href="_auto/base.html#make-legendary"><span class="std std-ref">make-legendary</span></a>: modify skill(s) of a single unit</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>: create new units from nothing</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-equip-item"><span class="std std-ref">modtools/equip-item</span></a>: a script to equip items on units</li>
+<li><a class="reference internal" href="_auto/base.html#points"><span class="std std-ref">points</span></a>:  set number of points available at embark screen</li>
+<li><a class="reference internal" href="_auto/base.html#pref-adjust"><span class="std std-ref">pref-adjust</span></a>: Adjust all preferences of all dwarves in play</li>
+<li><a class="reference internal" href="_auto/base.html#rejuvenate"><span class="std std-ref">rejuvenate</span></a>: make any “old” dwarf 20 years old</li>
+<li><a class="reference internal" href="_auto/base.html#starvingdead"><span class="std std-ref">starvingdead</span></a>: make undead weaken after one month on the map, and crumble after six</li>
+<li><a class="reference internal" href="_auto/base.html#view-item-info"><span class="std std-ref">view-item-info</span></a>:  adds information and customisable descriptions to item viewscreens</li>
+<li><a class="reference internal" href="_auto/base.html#warn-starving"><span class="std std-ref">warn-starving</span></a>:  check for starving, thirsty, or very drowsy units and pause with warning if any are found</li>
+</ul>
+</div>
+<div class="section" id="id45">
+<h3>New tweaks<a class="headerlink" href="#id45" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>embark-profile-name: Allows the use of lowercase letters when saving embark profiles</li>
+<li>kitchen-keys: Fixes DF kitchen meal keybindings</li>
+<li>kitchen-prefs-color: Changes color of enabled items to green in kitchen preferences</li>
+<li>kitchen-prefs-empty: Fixes a layout issue with empty kitchen tabs</li>
+</ul>
+</div>
+<div class="section" id="id46">
+<h3>Fixes<a class="headerlink" href="#id46" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Plugins with vmethod hooks can now be reloaded on OS X</li>
+<li>Lua’s <code class="docutils literal"><span class="pre">os.system()</span></code> now works on OS X</li>
+<li>Fixed default arguments in Lua gametype detection functions</li>
+<li>Circular lua dependencies (reqscript/script_environment) fixed</li>
+<li>Prevented crash in <code class="docutils literal"><span class="pre">Items::createItem()</span></code></li>
+<li><a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>: Now supports hatch covers</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">gui/create-item</span></a>: fixed assigning quality to items, made <code class="kbd docutils literal"><span class="pre">Esc</span></code> work properly</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>: handles lua tables properly</li>
+<li><a class="reference internal" href="Core.html#help"><span class="std std-ref">help</span></a>: now recognizes built-in commands, like <code class="docutils literal"><span class="pre">help</span></code></li>
+<li><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: fixed crash when selecting custom professions when none are found</li>
+<li><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: fixed crash when attempting to send map info when no map was loaded</li>
+<li><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: fixed crash in unit list after cancelling a job; fixed crash when disabling stockpile category after searching in a subcategory</li>
+<li><a class="reference internal" href="Plugins.html#stockpiles"><span class="std std-ref">stockpiles</span></a>: now checks/sanitizes filenames when saving</li>
+<li><a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: fixed a crash when right-clicking</li>
+<li><a class="reference internal" href="Plugins.html#steam-engine"><span class="std std-ref">steam-engine</span></a>: fixed a crash on arena load; number keys (e.g. 2/8) take priority over cursor keys when applicable</li>
+<li>tweak fps-min fixed</li>
+<li>tweak farm-plot-select: Stopped controls from appearing when plots weren’t fully built</li>
+<li><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: Fixed some issues with stuck jobs. Existing stuck jobs must be cancelled and re-added</li>
+<li><a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>: Fixed a crash when using <code class="docutils literal"><span class="pre">zone</span> <span class="pre">set</span></code> (and a few other potential crashes)</li>
+</ul>
+</div>
+<div class="section" id="id47">
+<h3>Misc Improvements<a class="headerlink" href="#id47" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">DFHack documentation:</p>
+<blockquote>
+<div><ul class="simple">
+<li>massively reorganised, into files of more readable size</li>
+<li>added many missing entries</li>
+<li>indexes, internal links, offline search all documents</li>
+<li>includes documentation of linked projects (df-structures, third-party scripts)</li>
+<li>better HTML generation with Sphinx</li>
+<li>documentation for scripts now located in source files</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Stopped modification of labors that shouldn’t be modified for brokers/diplomats</li>
+<li>Prioritize skilled dwarves more efficiently</li>
+<li>Prevent dwarves from running away with tools from previous jobs</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#automaterial"><span class="std std-ref">automaterial</span></a>: Fixed several issues with constructions being allowed/disallowed incorrectly when using box-select</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#dwarfmonitor"><span class="std std-ref">dwarfmonitor</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>widgets’ positions, formats, etc. are now customizable</li>
+<li>weather display now separated from the date display</li>
+<li>New mouse cursor widget</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-dfstatus"><span class="std std-ref">gui/dfstatus</span></a>: Can enable/disable individual categories and customize metal bar list</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#full-heal"><span class="std std-ref">full-heal</span></a>: <code class="docutils literal"><span class="pre">-r</span></code> option removes corpses</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a></p>
+<blockquote>
+<div><ul class="simple">
+<li>Pointers can now be displaced</li>
+<li>Added some useful aliases: “item” for the selected item, “screen” for the current screen, etc.</li>
+<li>Now avoids errors with unrecognized types</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/gui.html#gui-hack-wish"><span class="std std-ref">gui/hack-wish</span></a>: renamed to <a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">gui/create-item</span></a></p>
+</li>
+<li><p class="first"><a class="reference internal" href="Core.html#keybinding"><span class="std std-ref">keybinding list</span></a> accepts a context</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#lever"><span class="std std-ref">lever</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Lists lever names</li>
+<li><code class="docutils literal"><span class="pre">lever</span> <span class="pre">pull</span></code> can be used to pull the currently-selected lever</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">memview</span></code>: Fixed display issue</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/modtools.html#modtools-create-item"><span class="std std-ref">modtools/create-item</span></a>: arguments are named more clearly, and you can specify the creator to be the unit with id <code class="docutils literal"><span class="pre">df.global.unit_next_id-1</span></code> (useful in conjunction with <a class="reference internal" href="_auto/modtools.html#modtools-create-unit"><span class="std std-ref">modtools/create-unit</span></a>)</p>
+</li>
+<li><p class="first"><code class="docutils literal"><span class="pre">nyan</span></code>: Can now be stopped with dfhack-run</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Core.html#plug"><span class="std std-ref">plug</span></a>: lists all plugins; shows state and number of commands in plugins</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#prospect"><span class="std std-ref">prospect</span></a>: works from within command-prompt</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#quicksave"><span class="std std-ref">quicksave</span></a>: Restricted to fortress mode</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>: Exposes more information</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Supports noble suggestion screen (e.g. suggesting a baron)</li>
+<li>Supports fortress mode loo[k] menu</li>
+<li>Recognizes ? and ; keys</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: can now match beginning and end of item names</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#teleport"><span class="std std-ref">teleport</span></a>: Fixed cursor recognition</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#tidlers"><span class="std std-ref">tidlers</span></a>, <a class="reference internal" href="_auto/base.html#twaterlvl"><span class="std std-ref">twaterlvl</span></a>: now implemented by scripts instead of a plugin</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>debug output now logged to stderr.log instead of console - makes DFHack start faster</li>
+<li>farm-plot-select: Fixed issues with selecting undiscovered crops</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: Improved handling of plant reactions</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id48">
+<h3>Removed<a class="headerlink" href="#id48" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a> nano: 1x1 embarks are now possible in vanilla 0.40.24</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r3">
+<h2><a class="toc-backref" href="#id135">DFHack 0.40.24-r3</a><a class="headerlink" href="#dfhack-0-40-24-r3" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id49">
+<h3>Internals<a class="headerlink" href="#id49" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Ruby library now included on OS X - Ruby scripts should work on OS X 10.10</li>
+<li>libstdc++ should work with older versions of OS X</li>
+<li>Added support for <a class="reference internal" href="Core.html#other-init-files"><span class="std std-ref">onMapLoad.init / onMapUnload.init</span></a> scripts</li>
+<li>game type detection functions are now available in the World module</li>
+<li>The <code class="docutils literal"><span class="pre">DFHACK_LOG_MEM_RANGES</span></code> environment variable can be used to log information to <code class="docutils literal"><span class="pre">stderr.log</span></code> on OS X</li>
+<li>Fixed adventure mode menu names</li>
+<li>Fixed command usage information for some commands</li>
+</ul>
+</div>
+<div class="section" id="id50">
+<h3>Lua<a class="headerlink" href="#id50" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Lua scripts will only be reloaded if necessary</li>
+<li>Added a <code class="docutils literal"><span class="pre">df2console()</span></code> wrapper, useful for printing DF (CP437-encoded) text to the console in a portable way</li>
+<li>Added a <code class="docutils literal"><span class="pre">strerror()</span></code> wrapper</li>
+</ul>
+</div>
+<div class="section" id="id51">
+<h3>New Internal Commands<a class="headerlink" href="#id51" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Core.html#hide"><span class="std std-ref">hide</span></a>, <a class="reference internal" href="Core.html#show"><span class="std std-ref">show</span></a>:  hide and show the console on Windows</li>
+<li><a class="reference internal" href="Core.html#sc-script"><span class="std std-ref">sc-script</span></a>:  Allows additional scripts to be run when certain events occur (similar to <a class="reference internal" href="Core.html#onload-init"><span class="std std-ref">onLoad*.init</span></a> scripts)</li>
+</ul>
+</div>
+<div class="section" id="id52">
+<h3>New Plugins<a class="headerlink" href="#id52" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autohauler"><span class="std std-ref">autohauler</span></a>:  A hauling-only version of autolabor</li>
+</ul>
+</div>
+<div class="section" id="id53">
+<h3>New Scripts<a class="headerlink" href="#id53" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/modtools.html#modtools-reaction-product-trigger"><span class="std std-ref">modtools/reaction-product-trigger</span></a>:  triggers callbacks when products are produced (contrast with when reactions complete)</li>
+</ul>
+</div>
+<div class="section" id="id54">
+<h3>New Tweaks<a class="headerlink" href="#id54" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">fps-min</span></a>:  Fixes the in-game minimum FPS setting</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">shift-8-scroll</span></a>:  Gives Shift+8 (or <code class="docutils literal"><span class="pre">*</span></code>) priority when scrolling menus, instead of scrolling the map</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tradereq-pet-gender</span></a>:  Displays pet genders on the trade request screen</li>
+</ul>
+</div>
+<div class="section" id="id55">
+<h3>Fixes<a class="headerlink" href="#id55" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed game type detection in <a class="reference internal" href="Plugins.html#dveins"><span class="std std-ref">3dveins</span></a>, <a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">gui/create-item</span></a>, <a class="reference internal" href="Plugins.html#reveal"><span class="std std-ref">reveal</span></a>, <a class="reference internal" href="Plugins.html#seedwatch"><span class="std std-ref">seedwatch</span></a></li>
+<li><code class="docutils literal"><span class="pre">PRELOAD_LIB</span></code>:  More extensible on Linux</li>
+<li><a class="reference internal" href="Plugins.html#add-spatter"><span class="std std-ref">add-spatter</span></a>, <a class="reference internal" href="Lua API.html#eventful"><span class="std std-ref">Eventful</span></a>:  Fixed crash on world load</li>
+<li><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>:  Now has a proper subthought arg.</li>
+<li><a class="reference internal" href="Lua API.html#building-hacks"><span class="std std-ref">Building-hacks</span></a>:  Made buildings produce/consume correct amount of power</li>
+<li><a class="reference internal" href="Plugins.html#fix-armory"><span class="std std-ref">fix-armory</span></a>:  compiles and is available again (albeit with issues)</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>:  Added search option (accessible with “s”)</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-create-item"><span class="std std-ref">hack-wish</span></a>:  Made items stack properly.</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-skill-change"><span class="std std-ref">modtools/skill-change</span></a>:  Made level granularity work properly.</li>
+<li><a class="reference internal" href="_auto/base.html#show-unit-syndromes"><span class="std std-ref">show-unit-syndromes</span></a>:  should work</li>
+<li><a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a>:<ul>
+<li>Fixed error message in Arena mode</li>
+<li>no longer checks the DF version</li>
+<li>fixed ballistic arrow head orders</li>
+<li>convinces the bookkeeper to update records more often</li>
+</ul>
+</li>
+<li><a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>:  Stopped crash when scrolling cage owner list</li>
+</ul>
+</div>
+<div class="section" id="id56">
+<h3>Misc Improvements<a class="headerlink" href="#id56" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>:  A negative pool size can be specified to use the most unskilled dwarves</li>
+<li><a class="reference internal" href="Lua API.html#building-hacks"><span class="std std-ref">Building-hacks</span></a>:<ul>
+<li>Added a way to allow building to work even if it consumes more power than is available.</li>
+<li>Added setPower/getPower functions.</li>
+</ul>
+</li>
+<li><a class="reference internal" href="_auto/base.html#catsplosion"><span class="std std-ref">catsplosion</span></a>:  Can now trigger pregnancies in (most) other creatures</li>
+<li><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>:  <code class="docutils literal"><span class="pre">info</span></code> and <code class="docutils literal"><span class="pre">all</span></code> options export <code class="docutils literal"><span class="pre">legends_plus.xml</span></code> with more data for legends utilities</li>
+<li><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>:<ul>
+<li>Added ability to edit nicknames/profession names</li>
+<li>added “Job” as a View Type, in addition to “Profession” and “Squad”</li>
+<li>added custom profession templates with masking</li>
+</ul>
+</li>
+<li><a class="reference internal" href="Plugins.html#remotefortressreader"><span class="std std-ref">remotefortressreader</span></a>:  Exposes more information</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r2">
+<h2><a class="toc-backref" href="#id136">DFHack 0.40.24-r2</a><a class="headerlink" href="#dfhack-0-40-24-r2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id57">
+<h3>Internals<a class="headerlink" href="#id57" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">Lua scripts can set environment variables of each other with <code class="docutils literal"><span class="pre">dfhack.run_script_with_env</span></code></p>
+</li>
+<li><p class="first">Lua scripts can now call each others internal nonlocal functions with <code class="docutils literal"><span class="pre">dfhack.script_environment(scriptName).functionName(arg1,arg2)</span></code></p>
+</li>
+<li><p class="first"><a class="reference internal" href="Lua API.html#eventful"><span class="std std-ref">Eventful</span></a>: Lua reactions no longer require LUA_HOOK as a prefix; you can register a callback for the completion of any reaction with a name</p>
+</li>
+<li><p class="first">Filesystem module now provides file access/modification times and can list directories (normally and recursively)</p>
+</li>
+<li><p class="first">Units Module: New functions:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">isWar</span>
+<span class="n">isHunter</span>
+<span class="n">isAvailableForAdoption</span>
+<span class="n">isOwnCiv</span>
+<span class="n">isOwnRace</span>
+<span class="n">getRaceName</span>
+<span class="n">getRaceNamePlural</span>
+<span class="n">getRaceBabyName</span>
+<span class="n">getRaceChildName</span>
+<span class="n">isBaby</span>
+<span class="n">isChild</span>
+<span class="n">isAdult</span>
+<span class="n">isEggLayer</span>
+<span class="n">isGrazer</span>
+<span class="n">isMilkable</span>
+<span class="n">isTrainableWar</span>
+<span class="n">isTrainableHunting</span>
+<span class="n">isTamable</span>
+<span class="n">isMale</span>
+<span class="n">isFemale</span>
+<span class="n">isMerchant</span>
+<span class="n">isForest</span>
+<span class="n">isMarkedForSlaughter</span>
+</pre></div>
+</div>
+</li>
+<li><p class="first">Buildings Module: New Functions:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">isActivityZone</span>
+<span class="n">isPenPasture</span>
+<span class="n">isPitPond</span>
+<span class="n">isActive</span>
+<span class="n">findPenPitAt</span>
+</pre></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section" id="id58">
+<h3>Fixes<a class="headerlink" href="#id58" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">dfhack.run_script</span></code> should correctly find save-specific scripts now.</li>
+<li><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: updated to properly affect stress.</li>
+<li><a class="reference internal" href="_auto/base.html#hfs-pit"><span class="std std-ref">hfs-pit</span></a>: should work now</li>
+<li><a class="reference internal" href="Plugins.html#autobutcher"><span class="std std-ref">autobutcher</span></a>: takes gelding into account</li>
+<li><code class="file docutils literal"><span class="pre">init.lua</span></code> existence checks should be more reliable (notably when using non-English locales)</li>
+</ul>
+</div>
+<div class="section" id="id59">
+<h3>Misc Improvements<a class="headerlink" href="#id59" title="Permalink to this headline">¶</a></h3>
+<p>Multiline commands are now possible inside dfhack.init scripts. See <code class="file docutils literal"><span class="pre">dfhack.init-example</span></code> for example usage.</p>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r1">
+<h2><a class="toc-backref" href="#id137">DFHack 0.40.24-r1</a><a class="headerlink" href="#dfhack-0-40-24-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id60">
+<h3>Internals<a class="headerlink" href="#id60" title="Permalink to this headline">¶</a></h3>
+<p>CMake shouldn’t cache DFHACK_RELEASE anymore. People may need to manually update/delete their CMake cache files to get rid of it.</p>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-24-r0">
+<h2><a class="toc-backref" href="#id138">DFHack 0.40.24-r0</a><a class="headerlink" href="#dfhack-0-40-24-r0" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id61">
+<h3>Internals<a class="headerlink" href="#id61" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Lua API.html#eventmanager"><span class="std std-ref">Events from EventManager</span></a>: fixed crash error with EQUIPMENT_CHANGE event.</li>
+<li>key modifier state exposed to Lua (ie <code class="kbd docutils literal"><span class="pre">Ctrl</span></code>, <code class="kbd docutils literal"><span class="pre">Alt</span></code>, <code class="kbd docutils literal"><span class="pre">Shift</span></code>)</li>
+</ul>
+</div>
+<div class="section" id="id62">
+<h3>Fixes<a class="headerlink" href="#id62" title="Permalink to this headline">¶</a></h3>
+<p><code class="docutils literal"><span class="pre">dfhack.sh</span></code> can now be run from other directories on OS X</p>
+</div>
+<div class="section" id="id63">
+<h3>New Plugins<a class="headerlink" href="#id63" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#blueprint"><span class="std std-ref">blueprint</span></a>: export part of your fortress to quickfort .csv files</li>
+</ul>
+</div>
+<div class="section" id="id64">
+<h3>New Scripts<a class="headerlink" href="#id64" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#hotkey-notes"><span class="std std-ref">hotkey-notes</span></a>:  print key, name, and jump position of hotkeys</li>
+</ul>
+</div>
+<div class="section" id="id65">
+<h3>Removed<a class="headerlink" href="#id65" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>needs_porting/*</li>
+</ul>
+</div>
+<div class="section" id="id66">
+<h3>Misc Improvements<a class="headerlink" href="#id66" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Added support for searching more lists</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-23-r1">
+<h2><a class="toc-backref" href="#id139">DFHack 0.40.23-r1</a><a class="headerlink" href="#dfhack-0-40-23-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id67">
+<h3>Internals<a class="headerlink" href="#id67" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>plugins will not be loaded if globals they specify as required are not located (should prevent some crashes)</li>
+</ul>
+</div>
+<div class="section" id="id68">
+<h3>Fixes<a class="headerlink" href="#id68" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Fixed numerous (mostly Lua-related) crashes on OS X by including a more up-to-date libstdc++</li>
+<li><code class="kbd docutils literal"><span class="pre">Alt</span></code> should no longer get stuck on Windows (and perhaps other platforms as well)</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-advfort"><span class="std std-ref">gui/advfort</span></a> works again</li>
+<li><a class="reference internal" href="Plugins.html#autobutcher"><span class="std std-ref">autobutcher</span></a>: takes sexualities into account</li>
+<li>devel/export-dt-ini: Updated for 0.40.20+</li>
+<li><a class="reference internal" href="_auto/base.html#digfort"><span class="std std-ref">digfort</span></a>: now checks file type and existence</li>
+<li><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: Fixed map export</li>
+<li><a class="reference internal" href="_auto/base.html#full-heal"><span class="std std-ref">full-heal</span></a>: Fixed a problem with selecting units in the GUI</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-hack-wish"><span class="std std-ref">gui/hack-wish</span></a>: Fixed restrictive material filters</li>
+<li><a class="reference internal" href="Plugins.html#mousequery"><span class="std std-ref">mousequery</span></a>: Changed box-select key to Alt+M</li>
+<li><a class="reference internal" href="Plugins.html#dwarfmonitor"><span class="std std-ref">dwarfmonitor</span></a>: correct date display (month index, separator)</li>
+<li><a class="reference internal" href="_auto/base.html#putontable"><span class="std std-ref">putontable</span></a>: added to the readme</li>
+<li><a class="reference internal" href="_auto/base.html#siren"><span class="std std-ref">siren</span></a> should work again</li>
+<li>stderr.log: removed excessive debug output on OS X</li>
+<li><a class="reference internal" href="Plugins.html#trackstop"><span class="std std-ref">trackstop</span></a>: No longer prevents cancelling the removal of a track stop or roller.</li>
+<li>Fixed a display issue with <code class="docutils literal"><span class="pre">PRINT_MODE:TEXT</span></code></li>
+<li>Fixed a symbol error (MapExtras::BiomeInfo::MAX_LAYERS) when compiling DFHack in Debug mode</li>
+</ul>
+</div>
+<div class="section" id="id69">
+<h3>New Plugins<a class="headerlink" href="#id69" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#fortplan"><span class="std std-ref">fortplan</span></a>: designate construction of (limited) buildings from .csv file, quickfort-style</li>
+</ul>
+</div>
+<div class="section" id="id70">
+<h3>New Scripts<a class="headerlink" href="#id70" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/gui.html#gui-stockpiles"><span class="std std-ref">gui/stockpiles</span></a>: an in-game interface for saving and loading stockpile settings files.</li>
+<li><a class="reference internal" href="_auto/base.html#position"><span class="std std-ref">position</span></a>: Reports the current date, time, month, and season, plus some location info.  Port/update of position.py</li>
+<li><a class="reference internal" href="_auto/base.html#hfs-pit"><span class="std std-ref">hfs-pit</span></a>: Digs a hole to hell under the cursor.  Replaces needs_porting/hellhole.cpp</li>
+</ul>
+</div>
+<div class="section" id="id71">
+<h3>Removed<a class="headerlink" href="#id71" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>embark.lua: Obsolete, use <a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a></li>
+</ul>
+</div>
+<div class="section" id="id72">
+<h3>New tweaks<a class="headerlink" href="#id72" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">eggs-fertile</span></a>: Displays an egg fertility indicator on nestboxes</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">max-wheelbarrow</span></a>: Allows assigning more than 3 wheelbarrows to a stockpile</li>
+</ul>
+</div>
+<div class="section" id="id73">
+<h3>Misc Improvements<a class="headerlink" href="#id73" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a>: Added basic mouse support on the local map</li>
+<li>Made some adventure mode keybindings in <code class="file docutils literal"><span class="pre">dfhack.init-example</span></code> only work in adventure mode</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-companion-order"><span class="std std-ref">gui/companion-order</span></a>: added a default keybinding</li>
+<li>further work on needs_porting</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-19-r1">
+<h2><a class="toc-backref" href="#id140">DFHack 0.40.19-r1</a><a class="headerlink" href="#dfhack-0-40-19-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id74">
+<h3>Fixes<a class="headerlink" href="#id74" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/modtools.html#modtools-reaction-trigger"><span class="std std-ref">modtools/reaction-trigger</span></a>: fixed typo</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: should now work with item types</li>
+</ul>
+</div>
+<div class="section" id="id75">
+<h3>New plugins<a class="headerlink" href="#id75" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#stocksettings"><span class="std std-ref">savestock, loadstock</span></a>: save and load stockpile settings across worlds and saves</li>
+</ul>
+</div>
+<div class="section" id="id76">
+<h3>New scripts<a class="headerlink" href="#id76" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#remove-stress"><span class="std std-ref">remove-stress</span></a>: set selected or all units unit to -1,000,000 stress (this script replaces removebadthoughts)</li>
+</ul>
+</div>
+<div class="section" id="id77">
+<h3>Misc improvements<a class="headerlink" href="#id77" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#command-prompt"><span class="std std-ref">command-prompt</span></a>: can now access selected items, units, and buildings</li>
+<li><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>: add an optional talent pool parameter</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-16-r1">
+<h2><a class="toc-backref" href="#id141">DFHack 0.40.16-r1</a><a class="headerlink" href="#dfhack-0-40-16-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id78">
+<h3>Internals<a class="headerlink" href="#id78" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Lua API.html#eventmanager"><span class="std std-ref">Events from EventManager</span></a> should handle INTERACTION triggers a little better. It still can get confused about who did what but only rarely.</li>
+<li><a class="reference internal" href="Lua API.html#eventmanager"><span class="std std-ref">Events from EventManager</span></a> should no longer trigger REPORT events for old reports after loading a save.</li>
+<li>lua/persist-table: a convenient way of using persistent tables of arbitrary structure and dimension in Lua</li>
+</ul>
+</div>
+<div class="section" id="id79">
+<h3>Fixes<a class="headerlink" href="#id79" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#mousequery"><span class="std std-ref">mousequery</span></a>: Disabled when linking levers</li>
+<li><a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: Melting should work now</li>
+<li><a class="reference internal" href="_auto/base.html#full-heal"><span class="std std-ref">full-heal</span></a>: Updated with proper argument handling</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-reaction-trigger-transition"><span class="std std-ref">modtools/reaction-trigger-transition</span></a>: should produce the correct syntax now</li>
+<li><a class="reference internal" href="_auto/base.html#superdwarf"><span class="std std-ref">superdwarf</span></a>: should work better now</li>
+<li><a class="reference internal" href="_auto/base.html#forum-dwarves"><span class="std std-ref">forum-dwarves</span></a>: update for new df-structures changes</li>
+</ul>
+</div>
+<div class="section" id="id80">
+<h3>New Scripts<a class="headerlink" href="#id80" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#adaptation"><span class="std std-ref">adaptation</span></a>: view or set the cavern adaptation level of your citizens</li>
+<li><a class="reference internal" href="_auto/base.html#add-thought"><span class="std std-ref">add-thought</span></a>: allows the user to add thoughts to creatures.</li>
+<li><a class="reference internal" href="_auto/base.html#gaydar"><span class="std std-ref">gaydar</span></a>: detect the sexual orientation of units on the map</li>
+<li><a class="reference internal" href="_auto/base.html#markdown"><span class="std std-ref">markdown</span></a>: Save a copy of a text screen in markdown (for reddit among others).</li>
+<li>devel/all-bob: renames everyone Bob to help test interaction-trigger</li>
+</ul>
+</div>
+<div class="section" id="id81">
+<h3>Misc Improvements<a class="headerlink" href="#id81" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autodump"><span class="std std-ref">autodump</span></a>: Can now mark a stockpile for auto-dumping (similar to <a class="reference internal" href="Plugins.html#automelt"><span class="std std-ref">automelt</span></a> and <a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>)</li>
+<li><a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>: Can now auto-allocate rooms to dwarves with specific positions (e.g. expedition leader, mayor)</li>
+<li><a class="reference internal" href="Plugins.html#dwarfmonitor"><span class="std std-ref">dwarfmonitor</span></a>: now displays a weather indicator and date</li>
+<li>lua/syndrome-util, <a class="reference internal" href="_auto/modtools.html#modtools-add-syndrome"><span class="std std-ref">modtools/add-syndrome</span></a>: now you can remove syndromes by SYN_CLASS</li>
+<li>No longer write empty <code class="file docutils literal"><span class="pre">.history</span></code> files</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-15-r1">
+<h2><a class="toc-backref" href="#id142">DFHack 0.40.15-r1</a><a class="headerlink" href="#dfhack-0-40-15-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id82">
+<h3>Fixes<a class="headerlink" href="#id82" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>mousequery: Fixed behavior when selecting a tile on the lowest z-level</li>
+</ul>
+</div>
+<div class="section" id="id83">
+<h3>Misc Improvements<a class="headerlink" href="#id83" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Lua API.html#eventmanager"><span class="std std-ref">Events from EventManager</span></a>: deals with frame_counter getting reset properly now.</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: fixed equip/unequip bug and corrected minor documentation error</li>
+<li><a class="reference internal" href="_auto/base.html#teleport"><span class="std std-ref">teleport</span></a>: Updated with proper argument handling and proper unit-at-destination handling.</li>
+<li><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>: Removed the newly obsolete <span class="guilabel">Mark all</span> functionality.</li>
+<li><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: Adapts to the new trade screen column width</li>
+<li><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak fast-trade</span></a>: Switching the fast-trade keybinding to Shift-Up/Shift-Down, due to Select All conflict</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-14-r1">
+<h2><a class="toc-backref" href="#id143">DFHack 0.40.14-r1</a><a class="headerlink" href="#dfhack-0-40-14-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id84">
+<h3>Internals<a class="headerlink" href="#id84" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>The DFHack console can now be disabled by setting the DFHACK_DISABLE_CONSOLE environment variable: <code class="docutils literal"><span class="pre">DFHACK_DISABLE_CONSOLE=1</span> <span class="pre">./dfhack</span></code></li>
+</ul>
+</div>
+<div class="section" id="id85">
+<h3>Fixes<a class="headerlink" href="#id85" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Stopped duplicate load/unload events when unloading a world</li>
+<li>Stopped <code class="docutils literal"><span class="pre">-e</span></code> from being echoed when DFHack quits on Linux</li>
+<li><a class="reference internal" href="Plugins.html#automelt"><span class="std std-ref">automelt</span></a>: now uses a faster method to locate items</li>
+<li><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>: “Mark all” no longer double-marks bin contents</li>
+<li><a class="reference internal" href="_auto/base.html#drain-aquifer"><span class="std std-ref">drain-aquifer</span></a>: new script replaces the buggy plugin</li>
+<li><a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a>: no longer conflicts with keys on the notes screen</li>
+<li><a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>: Fixed problems with combat/attacks</li>
+<li><a class="reference internal" href="_auto/base.html#forum-dwarves"><span class="std std-ref">forum-dwarves</span></a>: should work now</li>
+<li><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: now uses a stable sort, allowing sorting by multiple categories</li>
+<li><a class="reference internal" href="Plugins.html#rendermax"><span class="std std-ref">rendermax</span></a>: updated to work with 0.40</li>
+</ul>
+</div>
+<div class="section" id="id86">
+<h3>New Plugins<a class="headerlink" href="#id86" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#trackstop"><span class="std std-ref">trackstop</span></a>: Shows track stop friction and dump direction in its <code class="kbd docutils literal"><span class="pre">q</span></code> menu</li>
+</ul>
+</div>
+<div class="section" id="id87">
+<h3>New Tweaks<a class="headerlink" href="#id87" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>farm-plot-select: Adds “Select all” and “Deselect all” options to farm plot menus</li>
+<li>import-priority-category: Allows changing the priority of all goods in a category when discussing an import agreement with the liaison</li>
+<li>manager-quantity: Removes the limit of 30 jobs per manager order</li>
+<li>civ-view-agreement: Fixes overlapping text on the “view agreement” screen</li>
+<li>nestbox-color: Fixes the color of built nestboxes</li>
+</ul>
+</div>
+<div class="section" id="id88">
+<h3>Misc Improvements<a class="headerlink" href="#id88" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: can now handle site maps</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-13-r1">
+<h2><a class="toc-backref" href="#id144">DFHack 0.40.13-r1</a><a class="headerlink" href="#dfhack-0-40-13-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id89">
+<h3>Internals<a class="headerlink" href="#id89" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>unified spatter structs</li>
+<li>added ruby df.print_color(color, string) method for dfhack console</li>
+</ul>
+</div>
+<div class="section" id="id90">
+<h3>Fixes<a class="headerlink" href="#id90" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>no more <code class="docutils literal"><span class="pre">-e</span></code> after terminating</li>
+<li>fixed <a class="reference internal" href="_auto/base.html#superdwarf"><span class="std std-ref">superdwarf</span></a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-12-r1">
+<h2><a class="toc-backref" href="#id145">DFHack 0.40.12-r1</a><a class="headerlink" href="#dfhack-0-40-12-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id91">
+<h3>Internals<a class="headerlink" href="#id91" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>support for global <a class="reference internal" href="Core.html#onload-init"><span class="std std-ref">onLoad*.init</span></a> and <a class="reference internal" href="Core.html#onunload-init"><span class="std std-ref">onUnload*.init</span></a> files, called when loading and unloading a world</li>
+<li>Close file after loading a <a class="reference internal" href="Binpatches.html#binpatches"><span class="std std-ref">binary patch</span></a>.</li>
+</ul>
+</div>
+<div class="section" id="id92">
+<h3>New Plugins<a class="headerlink" href="#id92" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#hotkeys"><span class="std std-ref">hotkeys</span></a>: Shows ingame viewscreen with all dfhack keybindings active in current mode.</li>
+<li><a class="reference internal" href="Plugins.html#automelt"><span class="std std-ref">automelt</span></a>: allows marking stockpiles so any items placed in them will be designated for melting</li>
+</ul>
+</div>
+<div class="section" id="id93">
+<h3>Fixes<a class="headerlink" href="#id93" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>possible crash fixed for <a class="reference internal" href="_auto/gui.html#gui-hack-wish"><span class="std std-ref">gui/hack-wish</span></a></li>
+<li><a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: updated to not conflict with BUILDJOB_SUSPEND</li>
+<li><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: job_material_category -&gt; dfhack_material_category</li>
+</ul>
+</div>
+<div class="section" id="id94">
+<h3>Misc Improvements<a class="headerlink" href="#id94" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>now you can use <code class="docutils literal"><span class="pre">&#64;</span></code> to print things in interactive Lua with subtley different semantics</li>
+<li>optimizations for stockpiles for <a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a> and <a class="reference internal" href="Plugins.html#stockflow"><span class="std std-ref">stockflow</span></a></li>
+<li>updated <a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a> to work with new maps, dfhack 40.11 r1+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-0-40-11-r1">
+<h2><a class="toc-backref" href="#id146">DFHack 0.40.11-r1</a><a class="headerlink" href="#dfhack-0-40-11-r1" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id95">
+<h3>Internals<a class="headerlink" href="#id95" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Plugins on OS X now use <code class="docutils literal"><span class="pre">.plug.dylib</span></code> as an extension instead of <code class="docutils literal"><span class="pre">.plug.so</span></code></li>
+</ul>
+</div>
+<div class="section" id="id96">
+<h3>Fixes<a class="headerlink" href="#id96" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#dveins"><span class="std std-ref">3dveins</span></a>: should no longer hang/crash on specific maps</li>
+<li><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>, <a class="reference internal" href="Plugins.html#search-plugin"><span class="std std-ref">search</span></a>: fixed some layout issues</li>
+<li><a class="reference internal" href="_auto/base.html#deathcause"><span class="std std-ref">deathcause</span></a>: updated</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-hack-wish"><span class="std std-ref">gui/hack-wish</span></a>: should work now</li>
+<li><a class="reference internal" href="Plugins.html#reveal"><span class="std std-ref">reveal</span></a>: no longer allocates data for nonexistent map blocks</li>
+<li>Various documentation fixes and updates</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-v0-40-10-r1">
+<h2><a class="toc-backref" href="#id147">DFHack v0.40.10-r1</a><a class="headerlink" href="#dfhack-v0-40-10-r1" title="Permalink to this headline">¶</a></h2>
+<p>A few bugfixes.</p>
+</div>
+<div class="section" id="dfhack-v0-40-08-r2">
+<h2><a class="toc-backref" href="#id148">DFHack v0.40.08-r2</a><a class="headerlink" href="#dfhack-v0-40-08-r2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id97">
+<h3>Internals<a class="headerlink" href="#id97" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">supported per save script folders</p>
+</li>
+<li><p class="first">Items module: added createItem function</p>
+</li>
+<li><p class="first">Sorted CMakeList for plugins and plugins/devel</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#digginginvaders"><span class="std std-ref">diggingInvaders</span></a> no longer builds if plugin building is disabled</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Lua API.html#eventmanager"><span class="std std-ref">Events from EventManager</span></a>: EQUIPMENT_CHANGE now triggers for new units.  New events:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">ON_REPORT</span>
+<span class="n">UNIT_ATTACK</span>
+<span class="n">UNLOAD</span>
+<span class="n">INTERACTION</span>
+</pre></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="section" id="id98">
+<h3>New Scripts<a class="headerlink" href="#id98" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>lua/repeat-util: makes it easier to make things repeat indefinitely</li>
+<li>lua/syndrome-util: makes it easier to deal with unit syndromes</li>
+<li><a class="reference internal" href="_auto/base.html#forum-dwarves"><span class="std std-ref">forum-dwarves</span></a>: helps copy df viewscreens to a file</li>
+<li><a class="reference internal" href="_auto/base.html#full-heal"><span class="std std-ref">full-heal</span></a>: fully heal a unit</li>
+<li><a class="reference internal" href="_auto/base.html#remove-wear"><span class="std std-ref">remove-wear</span></a>: removes wear from all items in the fort</li>
+<li><a class="reference internal" href="_auto/base.html#repeat"><span class="std std-ref">repeat</span></a>: repeatedly calls a script or a plugin</li>
+<li>ShowUnitSyndromes: shows syndromes affecting units and other relevant info</li>
+<li><a class="reference internal" href="_auto/base.html#teleport"><span class="std std-ref">teleport</span></a>: teleports units</li>
+<li><a class="reference internal" href="_auto/devel.html#devel-print-args"><span class="std std-ref">devel/print-args</span></a></li>
+<li><a class="reference internal" href="_auto/fix.html#fix-blood-del"><span class="std std-ref">fix/blood-del</span></a>: makes it so civs don’t bring barrels full of blood ichor or goo</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-feeding-timers"><span class="std std-ref">fix/feeding-timers</span></a>: reset the feeding timers of all units</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-hack-wish"><span class="std std-ref">gui/hack-wish</span></a>: creates items out of any material</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-unit-info-viewer"><span class="std std-ref">gui/unit-info-viewer</span></a>: displays information about units</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-add-syndrome"><span class="std std-ref">modtools/add-syndrome</span></a>: add a syndrome to a unit or remove one</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-anonymous-script"><span class="std std-ref">modtools/anonymous-script</span></a>: execute an lua script defined by a string. Useful for the <code class="docutils literal"><span class="pre">*-trigger</span></code> scripts.</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-force"><span class="std std-ref">modtools/force</span></a>: forces events: caravan, migrants, diplomat, megabeast, curiousbeast, mischievousbeast, flier, siege, nightcreature</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-item-trigger"><span class="std std-ref">modtools/item-trigger</span></a>: triggers commands based on equipping, unequipping, and wounding units with items</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-interaction-trigger"><span class="std std-ref">modtools/interaction-trigger</span></a>: triggers commands when interactions happen</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-invader-item-destroyer"><span class="std std-ref">modtools/invader-item-destroyer</span></a>: destroys invaders’ items when they die</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-moddable-gods"><span class="std std-ref">modtools/moddable-gods</span></a>: standardized version of Putnam’s moddable gods script</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-projectile-trigger"><span class="std std-ref">modtools/projectile-trigger</span></a>: standardized version of projectileExpansion</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-reaction-trigger"><span class="std std-ref">modtools/reaction-trigger</span></a>: trigger commands when custom reactions complete; replaces autoSyndrome</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-reaction-trigger-transition"><span class="std std-ref">modtools/reaction-trigger-transition</span></a>: a tool for converting mods from autoSyndrome to reaction-trigger</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-random-trigger"><span class="std std-ref">modtools/random-trigger</span></a>: triggers random scripts that you register</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-skill-change"><span class="std std-ref">modtools/skill-change</span></a>: for incrementing and setting skills</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-spawn-flow"><span class="std std-ref">modtools/spawn-flow</span></a>: creates flows, like mist or dragonfire</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-syndrome-trigger"><span class="std std-ref">modtools/syndrome-trigger</span></a>: trigger commands when syndromes happen</li>
+<li><a class="reference internal" href="_auto/modtools.html#modtools-transform-unit"><span class="std std-ref">modtools/transform-unit</span></a>: shapeshifts a unit, possibly permanently</li>
+</ul>
+</div>
+<div class="section" id="id99">
+<h3>Misc improvements<a class="headerlink" href="#id99" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>new function in utils.lua for standardized argument processing</li>
+</ul>
+</div>
+<div class="section" id="id100">
+<h3>Removed<a class="headerlink" href="#id100" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>digmat.rb: digFlood does the same functionality with less FPS impact</li>
+<li>invasionNow: <a class="reference internal" href="_auto/modtools.html#modtools-force"><span class="std std-ref">modtools/force</span></a> does it better</li>
+<li>autoSyndrome replaced with <a class="reference internal" href="_auto/modtools.html#modtools-reaction-trigger"><span class="std std-ref">modtools/reaction-trigger</span></a></li>
+<li>syndromeTrigger replaced with <a class="reference internal" href="_auto/modtools.html#modtools-syndrome-trigger"><span class="std std-ref">modtools/syndrome-trigger</span></a></li>
+<li>devel/printArgs plugin converted to <a class="reference internal" href="_auto/devel.html#devel-print-args"><span class="std std-ref">devel/print-args</span></a></li>
+<li>outsideOnly plugin replaced by <a class="reference internal" href="_auto/modtools.html#modtools-outside-only"><span class="std std-ref">modtools/outside-only</span></a></li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-v0-40-08-r1">
+<h2><a class="toc-backref" href="#id149">DFHack v0.40.08-r1</a><a class="headerlink" href="#dfhack-v0-40-08-r1" title="Permalink to this headline">¶</a></h2>
+<p>Was a mistake. Don’t use it.</p>
+</div>
+<div class="section" id="dfhack-v0-34-11-r5">
+<h2><a class="toc-backref" href="#id150">DFHack v0.34.11-r5</a><a class="headerlink" href="#dfhack-v0-34-11-r5" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id101">
+<h3>Internals<a class="headerlink" href="#id101" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>support for calling a lua function via a protobuf request (demonstrated by dfhack-run –lua).</li>
+<li>support for basic filesystem operations (e.g. chdir, mkdir, rmdir, stat) in C++ and Lua</li>
+<li>Lua API for listing files in directory. Needed for <a class="reference internal" href="_auto/gui.html#gui-mod-manager"><span class="std std-ref">gui/mod-manager</span></a></li>
+<li>Lua API for creating unit combat reports and writing to gamelog.</li>
+<li>Lua API for running arbitrary DFHack commands</li>
+<li>support for multiple <code class="docutils literal"><span class="pre">raw/init.d/*.lua</span></code> init scripts in one save.</li>
+<li>eventful now has a more friendly way of making custom sidebars</li>
+<li>on Linux and OS X the console now supports moving the cursor back and forward by a whole word.</li>
+</ul>
+</div>
+<div class="section" id="id102">
+<h3>New scripts<a class="headerlink" href="#id102" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/gui.html#gui-mod-manager"><span class="std std-ref">gui/mod-manager</span></a>: allows installing/uninstalling mods into df from <code class="docutils literal"><span class="pre">df/mods</span></code> directory.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-clone-uniform"><span class="std std-ref">gui/clone-uniform</span></a>: duplicates the currently selected uniform in the military screen.</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-build-location"><span class="std std-ref">fix/build-location</span></a>: partial work-around for <a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=5991">Bug 5991</a> (trying to build wall while standing on it)</li>
+<li><a class="reference internal" href="_auto/base.html#undump-buildings"><span class="std std-ref">undump-buildings</span></a>: removes dump designation from materials used in buildings.</li>
+<li><a class="reference internal" href="_auto/base.html#exportlegends"><span class="std std-ref">exportlegends</span></a>: exports data from legends mode, allowing a set-and-forget export of large worlds.</li>
+<li>log-region: each time a fort is loaded identifying information will be written to the gamelog.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-dfstatus"><span class="std std-ref">dfstatus</span></a>: show an overview of critical stock quantities, including food, drinks, wood, and bars.</li>
+<li><a class="reference internal" href="Plugins.html#command-prompt"><span class="std std-ref">command-prompt</span></a>: a dfhack command prompt in df.</li>
+</ul>
+</div>
+<div class="section" id="id103">
+<h3>New plugins<a class="headerlink" href="#id103" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#rendermax"><span class="std std-ref">rendermax</span></a>: replace the renderer with something else, eg <code class="docutils literal"><span class="pre">rendermax</span> <span class="pre">light</span></code>- a lighting engine</li>
+<li><a class="reference internal" href="Plugins.html#automelt"><span class="std std-ref">automelt</span></a>: allows marking stockpiles for automelt (i.e. any items placed in stocpile will be designated for melting)</li>
+<li><a class="reference internal" href="Plugins.html#embark-tools"><span class="std std-ref">embark-tools</span></a>: implementations of Embark Anywhere, Nano Embark, and a few other embark-related utilities</li>
+<li><a class="reference internal" href="Lua API.html#building-hacks"><span class="std std-ref">Building-hacks</span></a>: Allows to add custom functionality and/or animations to buildings.</li>
+<li><a class="reference internal" href="Plugins.html#petcapremover"><span class="std std-ref">petcapRemover</span></a>: triggers pregnancies in creatures so that you can effectively raise the default pet population cap</li>
+<li><a class="reference internal" href="Plugins.html#plant"><span class="std std-ref">plant create</span></a>: spawn a new shrub under the cursor</li>
+</ul>
+</div>
+<div class="section" id="id104">
+<h3>New tweaks<a class="headerlink" href="#id104" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>craft-age-wear: make crafted items wear out with time like in old versions (<a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=6003">Bug 6003</a>)</li>
+<li>adamantine-cloth-wear: stop adamantine clothing from wearing out (<a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=6481">Bug 6481</a>)</li>
+<li>confirm-embark: adds a prompt before embarking (on the “prepare carefully” screen)</li>
+</ul>
+</div>
+<div class="section" id="id105">
+<h3>Misc improvements<a class="headerlink" href="#id105" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="Plugins.html#plant"><span class="std std-ref">plant</span></a>: move the ‘grow’, ‘extirpate’ and ‘immolate’ commands as ‘plant’ subcommands</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#digfort"><span class="std std-ref">digfort</span></a>: improved csv parsing, add start() comment handling</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exterminate"><span class="std std-ref">exterminate</span></a>: allow specifying a caste (exterminate gob:male)</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#createitem"><span class="std std-ref">createitem</span></a>: in adventure mode it now defaults to the controlled unit as maker.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>: adds “(Un)mark All” options to both panes of trade screen.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#mousequery"><span class="std std-ref">mousequery</span></a>: several usability improvements; show live overlay (in menu area) of what’s on the tile under the mouse cursor.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="../search.html"><span class="std std-ref">Search Page</span></a>: workshop profile search added.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#dwarfmonitor"><span class="std std-ref">dwarfmonitor</span></a>: add screen to summarise preferences of fortress dwarfs.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#getplants"><span class="std std-ref">getplants</span></a>: add autochop function to automate woodcutting.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: added more filtering and display options.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#siege-engine"><span class="std std-ref">siege-engine</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>engine quality and distance to target now affect accuracy</li>
+<li>firing the siege engine at a target produces a combat report</li>
+<li>improved movement speed computation for meandering units</li>
+<li>operators in Prepare To Fire mode are released from duty once hungry/thirsty if there is a free replacement</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-v0-34-11-r4">
+<h2><a class="toc-backref" href="#id151">DFHack v0.34.11-r4</a><a class="headerlink" href="#dfhack-v0-34-11-r4" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="new-commands">
+<h3>New commands<a class="headerlink" href="#new-commands" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#digginginvaders"><span class="std std-ref">diggingInvaders</span></a> - allows invaders to dig and/or deconstruct walls and buildings in order to get at your dwarves.</li>
+<li><a class="reference internal" href="Plugins.html#digflood"><span class="std std-ref">digFlood</span></a> - automatically dig out specified veins as they are revealed</li>
+<li><a class="reference internal" href="Core.html#enable"><span class="std std-ref">enable, disable</span></a> - Built-in commands that can be used to enable/disable many plugins.</li>
+<li><a class="reference internal" href="Plugins.html#restrictice"><span class="std std-ref">restrictice</span></a> - Restrict traffic on squares above visible ice.</li>
+<li><a class="reference internal" href="Plugins.html#restrictliquids"><span class="std std-ref">restrictliquids</span></a> - Restrict traffic on every visible square with liquid.</li>
+<li>treefarm - automatically chop trees and dig obsidian</li>
+</ul>
+</div>
+<div class="section" id="id106">
+<h3>New Scripts<a class="headerlink" href="#id106" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autobutcher"><span class="std std-ref">autobutcher</span></a>: A GUI front-end for the autobutcher plugin.</li>
+<li>invasionNow: trigger an invasion, or many</li>
+<li><a class="reference internal" href="_auto/base.html#locate-ore"><span class="std std-ref">locate-ore</span></a>: scan the map for unmined ore veins</li>
+<li><a class="reference internal" href="_auto/base.html#masspit"><span class="std std-ref">masspit</span></a>: designate caged creatures in a zone for pitting</li>
+<li><a class="reference internal" href="_auto/base.html#multicmd"><span class="std std-ref">multicmd</span></a>: run a sequence of dfhack commands, separated by ‘;’</li>
+<li><a class="reference internal" href="_auto/base.html#startdwarf"><span class="std std-ref">startdwarf</span></a>: change the number of dwarves for a new embark</li>
+<li>digmat: dig veins/layers tile by tile, as discovered</li>
+</ul>
+</div>
+<div class="section" id="id107">
+<h3>Misc improvements<a class="headerlink" href="#id107" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first">autoSyndrome:</p>
+<blockquote>
+<div><ul class="simple">
+<li>disable by default</li>
+<li>reorganized special tags</li>
+<li>minimized error spam</li>
+<li>reset policies: if the target already has an instance of the syndrome you can skip,
+add another instance, reset the timer, or add the full duration to the time remaining</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">core: fix SC_WORLD_(UN)LOADED event for arena mode</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#exterminate"><span class="std std-ref">exterminate</span></a>: renamed from slayrace, add help message, add butcher mode</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>: fixed bug involving fastdwarf and teledwarf being on at the same time</p>
+</li>
+<li><p class="first">magmasource: rename to <a class="reference internal" href="_auto/base.html#source"><span class="std std-ref">source</span></a>, allow water/magma sources/drains</p>
+</li>
+<li><p class="first">Add df.dfhack_run “somecommand” to Ruby</p>
+</li>
+<li><p class="first">syndromeTrigger: replaces and extends trueTransformation. Can trigger things when syndromes are added for any reason.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tiletypes"><span class="std std-ref">tiletypes</span></a>: support changing tile material to arbitrary stone.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#worknow"><span class="std std-ref">workNow</span></a>: can optionally look for jobs when jobs are completed</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id108">
+<h3>New tweaks<a class="headerlink" href="#id108" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>hive-crash: Prevent crash if bees die in a hive with ungathered products (<a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=6368">Bug 6368</a>).</li>
+</ul>
+</div>
+<div class="section" id="id109">
+<h3>New plugins<a class="headerlink" href="#id109" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#dveins"><span class="std std-ref">3dveins</span></a>: Reshapes all veins on the map in a way that flows between Z levels. May be unstable. Backup before using.</li>
+<li><a class="reference internal" href="Plugins.html#autotrade"><span class="std std-ref">autotrade</span></a>: Automatically send items in marked stockpiles to trade depot, when trading is possible.</li>
+<li><a class="reference internal" href="Plugins.html#buildingplan"><span class="std std-ref">buildingplan</span></a>: Place furniture before it’s built</li>
+<li><a class="reference internal" href="Plugins.html#dwarfmonitor"><span class="std std-ref">dwarfmonitor</span></a>: Records dwarf activity to measure fort efficiency</li>
+<li><a class="reference internal" href="Plugins.html#mousequery"><span class="std std-ref">mousequery</span></a>: Look and poke at the map elements with the mouse.</li>
+<li>outsideOnly: make raw-specified buildings impossible to build inside</li>
+<li><a class="reference internal" href="Plugins.html#resume"><span class="std std-ref">resume</span></a>: A plugin to help display and resume suspended constructions conveniently</li>
+<li><a class="reference internal" href="Plugins.html#stocks"><span class="std std-ref">stocks</span></a>: An improved stocks display screen.</li>
+</ul>
+</div>
+<div class="section" id="id110">
+<h3>Internals<a class="headerlink" href="#id110" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>Core: there is now a per-save dfhack.init file for when the save is loaded, and another for when it is unloaded</li>
+<li>EventManager: fixed job completion detection, fixed removal of TICK events, added EQUIPMENT_CHANGE event</li>
+<li>Lua API for a better <a class="reference internal" href="Lua API.html#lua-api-random"><span class="std std-ref">random number generator</span></a> and perlin noise functions.</li>
+<li>Once: easy way to make sure something happens once per run of DF, such as an error message</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-v0-34-11-r3">
+<h2><a class="toc-backref" href="#id152">DFHack v0.34.11-r3</a><a class="headerlink" href="#dfhack-v0-34-11-r3" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id111">
+<h3>Internals<a class="headerlink" href="#id111" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>support for displaying active keybindings properly.</li>
+<li>support for reusable widgets in lua screen library.</li>
+<li>Maps::canStepBetween: returns whether you can walk between two tiles in one step.</li>
+<li>EventManager: monitors various in game events centrally so that individual plugins
+don’t have to monitor the same things redundantly.</li>
+<li>Now works with OS X 10.6.8</li>
+</ul>
+</div>
+<div class="section" id="notable-bugfixes">
+<h3>Notable bugfixes<a class="headerlink" href="#notable-bugfixes" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#autobutcher"><span class="std std-ref">autobutcher</span></a> can be re-enabled again after being stopped.</li>
+<li>stopped <a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">Dwarf Manipulator</span></a> from unmasking vampires.</li>
+<li><a class="reference internal" href="../plugins/stonesense/docs/Stonesense.html#stonesense"><span class="std std-ref">Stonesense</span></a> is now fixed on OS X</li>
+</ul>
+</div>
+<div class="section" id="id112">
+<h3>Misc improvements<a class="headerlink" href="#id112" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>: new mode using debug flags, and some internal consistency fixes.</p>
+</li>
+<li><p class="first">added a small stand-alone utility for applying and removing <a class="reference internal" href="Binpatches.html#binpatches"><span class="std std-ref">binary patches</span></a>.</p>
+</li>
+<li><p class="first">removebadthoughts: add –dry-run option</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#superdwarf"><span class="std std-ref">superdwarf</span></a>: work in adventure mode too</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#tweak"><span class="std std-ref">tweak</span></a> stable-cursor: carries cursor location from/to Build menu.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#deathcause"><span class="std std-ref">deathcause</span></a>: allow selection from the unitlist screen</p>
+</li>
+<li><p class="first">slayrace: allow targetting undeads</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a> plugin:</p>
+<blockquote>
+<div><ul class="simple">
+<li>properly considers minecarts assigned to routes busy.</li>
+<li>code for deducing job outputs rewritten in lua for flexibility.</li>
+<li>logic fix: collecting webs produces silk, and ungathered webs are not thread.</li>
+<li>items assigned to squads are considered busy, even if not in inventory.</li>
+<li>shearing and milking jobs are supported, but only with generic MILK or YARN outputs.</li>
+<li>workflow announces when the stock level gets very low once a season.</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first">Auto syndrome plugin: A way of automatically applying boiling rock syndromes and calling dfhack commands controlled by raws.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#infinitesky"><span class="std std-ref">infiniteSky</span></a> plugin: Create new z-levels automatically or on request.</p>
+</li>
+<li><p class="first">True transformation plugin: A better way of doing permanent transformations that allows later transformations.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#worknow"><span class="std std-ref">workNow</span></a> plugin: Makes the game assign jobs every time you pause.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="id113">
+<h3>New tweaks<a class="headerlink" href="#id113" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>tweak military-training: speed up melee squad training up to 10x (normally 3-5x).</li>
+</ul>
+</div>
+<div class="section" id="id114">
+<h3>New scripts<a class="headerlink" href="#id114" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#binpatch"><span class="std std-ref">binpatch</span></a>: the same as the stand-alone binpatch.exe, but works at runtime.</li>
+<li>region-pops: displays animal populations of the region and allows tweaking them.</li>
+<li><a class="reference internal" href="_auto/base.html#lua"><span class="std std-ref">lua</span></a>: lua interpreter front-end converted to a script from a native command.</li>
+<li>dfusion: misc scripts with a text based menu.</li>
+<li>embark: lets you embark anywhere.</li>
+<li><a class="reference internal" href="_auto/base.html#lever"><span class="std std-ref">lever</span></a>: list and pull fort levers from the dfhack console.</li>
+<li><a class="reference internal" href="_auto/base.html#stripcaged"><span class="std std-ref">stripcaged</span></a>: mark items inside cages for dumping, eg caged goblin weapons.</li>
+<li>soundsense-season: writes the correct season to gamelog.txt on world load.</li>
+<li>create-items: spawn items</li>
+<li>fix/cloth-stockpile: fixes <a class="reference external" href="http://www.bay12games.com/dwarves/mantisbt/view.php?id=5739">Bug 5739</a>; needs to be run after savegame load every time.</li>
+</ul>
+</div>
+<div class="section" id="new-gui-scripts">
+<h3>New GUI scripts<a class="headerlink" href="#new-gui-scripts" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/gui.html#gui-guide-path"><span class="std std-ref">gui/guide-path</span></a>: displays the cached path for minecart Guide orders.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-workshop-job"><span class="std std-ref">gui/workshop-job</span></a>: displays inputs of a workshop job and allows tweaking them.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-workflow"><span class="std std-ref">gui/workflow</span></a>: a front-end for the workflow plugin (part inspired by falconne).</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-assign-rack"><span class="std std-ref">gui/assign-rack</span></a>: works together with a binary patch to fix weapon racks.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-gm-editor"><span class="std std-ref">gui/gm-editor</span></a>: an universal editor for lots of dfhack things.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-companion-order"><span class="std std-ref">gui/companion-order</span></a>: a adventure mode command interface for your companions.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-advfort"><span class="std std-ref">gui/advfort</span></a>: a way to do jobs with your adventurer (e.g. build fort).</li>
+</ul>
+</div>
+<div class="section" id="new-binary-patches">
+<h3>New binary patches<a class="headerlink" href="#new-binary-patches" title="Permalink to this headline">¶</a></h3>
+<p>(for use with <a class="reference internal" href="_auto/base.html#binpatch"><span class="std std-ref">binpatch</span></a>)</p>
+<ul class="simple">
+<li>armorstand-capacity: doubles the capacity of armor stands.</li>
+<li>custom-reagent-size: lets custom reactions use small amounts of inputs.</li>
+<li>deconstruct-heapfall: stops some items still falling on head when deconstructing.</li>
+<li>deconstruct-teleport: stops items from 16x16 block teleporting when deconstructing.</li>
+<li>hospital-overstocking: stops hospital overstocking with supplies.</li>
+<li>training-ammo: lets dwarves with quiver full of combat-only ammo train.</li>
+<li>weaponrack-unassign: fixes bug that negates work done by gui/assign-rack.</li>
+</ul>
+</div>
+<div class="section" id="id115">
+<h3>New Plugins<a class="headerlink" href="#id115" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#fix-armory"><span class="std std-ref">fix-armory</span></a>: Together with a couple of binary patches and the <a class="reference internal" href="_auto/gui.html#gui-assign-rack"><span class="std std-ref">gui/assign-rack</span></a> script, this plugin makes weapon racks, armor stands, chests and cabinets in properly designated barracks be used again for storage of squad equipment.</li>
+<li><a class="reference internal" href="../search.html"><span class="std std-ref">Search Page</span></a>: Adds an incremental search function to the Stocks, Trading, Stockpile and Unit List screens.</li>
+<li><a class="reference internal" href="Plugins.html#automaterial"><span class="std std-ref">automaterial</span></a>: Makes building constructions (walls, floors, fortifications, etc) a little bit easier by saving you from having to trawl through long lists of materials each time you place one.</li>
+<li>Dfusion: Reworked to make use of lua modules, now all the scripts can be used from other scripts.</li>
+<li>Eventful: A collection of lua events, that will allow new ways to interact with df world.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="dfhack-v0-34-11-r2">
+<h2><a class="toc-backref" href="#id153">DFHack v0.34.11-r2</a><a class="headerlink" href="#dfhack-v0-34-11-r2" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="id116">
+<h3>Internals<a class="headerlink" href="#id116" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>full support for Mac OS X.</li>
+<li>a plugin that adds scripting in <a class="reference internal" href="Plugins.html#rb"><span class="std std-ref">ruby</span></a>.</li>
+<li>support for interposing virtual methods in DF from C++ plugins.</li>
+<li>support for creating new interface screens from C++ and lua.</li>
+<li>added various other API functions.</li>
+</ul>
+</div>
+<div class="section" id="id117">
+<h3>Notable bugfixes<a class="headerlink" href="#id117" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>better terminal reset after exit on linux.</li>
+<li><a class="reference internal" href="Plugins.html#seedwatch"><span class="std std-ref">seedwatch</span></a> now works on reclaim.</li>
+<li>the sort plugin won’t crash on cages anymore.</li>
+</ul>
+</div>
+<div class="section" id="id118">
+<h3>Misc improvements<a class="headerlink" href="#id118" title="Permalink to this headline">¶</a></h3>
+<ul>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autodump"><span class="std std-ref">autodump</span></a>: can move items to any walkable tile, not just floors.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="_auto/base.html#stripcaged"><span class="std std-ref">stripcaged</span></a>: by default keep armor, new dumparmor option.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#zone"><span class="std std-ref">zone</span></a>: allow non-domesticated birds in nestboxes.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#workflow"><span class="std std-ref">workflow</span></a>: quality range in constraints.</p>
+</li>
+<li><p class="first">cleanplants: new command to remove rain water from plants.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#liquids"><span class="std std-ref">liquids</span></a>: can paint permaflow, i.e. what makes rivers power water wheels.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#prospect"><span class="std std-ref">prospect</span></a>: pre-embark prospector accounts for caves &amp; magma sea in its estimate.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#rename"><span class="std std-ref">rename</span></a>: supports renaming stockpiles, workshops, traps, siege engines.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>: now has an additional option to make dwarves teleport to their destination.</p>
+</li>
+<li><p class="first"><a class="reference internal" href="Plugins.html#autolabor"><span class="std std-ref">autolabor</span></a>:</p>
+<blockquote>
+<div><ul class="simple">
+<li>can set nonidle hauler percentage.</li>
+<li>broker excluded from all labors when needed at depot.</li>
+<li>likewise, anybody with a scheduled diplomat meeting.</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="id119">
+<h3>New commands<a class="headerlink" href="#id119" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>misery: multiplies every negative thought gained (2x by default).</li>
+<li><a class="reference internal" href="Plugins.html#digtype"><span class="std std-ref">digtype</span></a>: designates every tile of the same type of vein on the map for ‘digging’ (any dig designation).</li>
+</ul>
+</div>
+<div class="section" id="id120">
+<h3>New tweaks<a class="headerlink" href="#id120" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li>tweak stable-cursor: keeps exact cursor position between d/k/t/q/v etc menus.</li>
+<li>tweak patrol-duty: makes Train orders reduce patrol timer, like the binary patch does.</li>
+<li>tweak readable-build-plate: fix unreadable truncation in unit pressure plate build ui.</li>
+<li>tweak stable-temp: fixes bug 6012; may improve FPS by 50-100% on a slow item-heavy fort.</li>
+<li>tweak fast-heat: speeds up item heating &amp; cooling, thus making stable-temp act faster.</li>
+<li>tweak fix-dimensions: fixes subtracting small amounts from stacked liquids etc.</li>
+<li>tweak advmode-contained: fixes UI bug in custom reactions with container inputs in advmode.</li>
+<li>tweak fast-trade: Shift-Enter for selecting items quckly in Trade and Move to Depot screens.</li>
+<li>tweak military-stable-assign: Stop rightmost list of military-&gt;Positions from jumping to top.</li>
+<li>tweak military-color-assigned: In same list, color already assigned units in brown &amp; green.</li>
+</ul>
+</div>
+<div class="section" id="id121">
+<h3>New scripts<a class="headerlink" href="#id121" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="_auto/base.html#fixnaked"><span class="std std-ref">fixnaked</span></a>: removes thoughts about nakedness.</li>
+<li><a class="reference internal" href="_auto/base.html#setfps"><span class="std std-ref">setfps</span></a>: set FPS cap at runtime, in case you want slow motion or speed-up.</li>
+<li><a class="reference internal" href="_auto/base.html#siren"><span class="std std-ref">siren</span></a>: wakes up units, stops breaks and parties - but causes bad thoughts.</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-population-cap"><span class="std std-ref">fix/population-cap</span></a>: run after every migrant wave to prevent exceeding the cap.</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-stable-temp"><span class="std std-ref">fix/stable-temp</span></a>: counts items with temperature updates; does instant one-shot stable-temp.</li>
+<li><a class="reference internal" href="_auto/fix.html#fix-loyaltycascade"><span class="std std-ref">fix/loyaltycascade</span></a>: fix units allegiance, eg after ordering a dwarf merchant kill.</li>
+<li><a class="reference internal" href="_auto/base.html#deathcause"><span class="std std-ref">deathcause</span></a>: shows the circumstances of death for a given body.</li>
+<li><a class="reference internal" href="_auto/base.html#digfort"><span class="std std-ref">digfort</span></a>: designate areas to dig from a csv file.</li>
+<li><a class="reference internal" href="_auto/base.html#drain-aquifer"><span class="std std-ref">drain-aquifer</span></a>: remove aquifers from the map.</li>
+<li><a class="reference internal" href="_auto/base.html#growcrops"><span class="std std-ref">growcrops</span></a>: cheat to make farm crops instantly grow.</li>
+<li>magmasource: continuously spawn magma from any map tile.</li>
+<li>removebadthoughts: delete all negative thoughts from your dwarves.</li>
+<li>slayrace: instakill all units of a given race, optionally with magma.</li>
+<li><a class="reference internal" href="_auto/base.html#superdwarf"><span class="std std-ref">superdwarf</span></a>: per-creature <a class="reference internal" href="Plugins.html#fastdwarf"><span class="std std-ref">fastdwarf</span></a>.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-mechanisms"><span class="std std-ref">gui/mechanisms</span></a>: browse mechanism links of the current building.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-room-list"><span class="std std-ref">gui/room-list</span></a>: browse other rooms owned by the unit when assigning one.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-liquids"><span class="std std-ref">gui/liquids</span></a>: a GUI front-end for the liquids plugin.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-rename"><span class="std std-ref">gui/rename</span></a>: renaming stockpiles, workshops and units via an in-game dialog.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-power-meter"><span class="std std-ref">gui/power-meter</span></a>: front-end for the Power Meter plugin.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-siege-engine"><span class="std std-ref">gui/siege-engine</span></a>: front-end for the Siege Engine plugin.</li>
+<li><a class="reference internal" href="_auto/gui.html#gui-choose-weapons"><span class="std std-ref">gui/choose-weapons</span></a>: auto-choose matching weapons in the military equip screen.</li>
+</ul>
+</div>
+<div class="section" id="id122">
+<h3>New Plugins<a class="headerlink" href="#id122" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference internal" href="Plugins.html#manipulator"><span class="std std-ref">manipulator</span></a>: a Dwarf Therapist like UI in the game (<code class="kbd docutils literal"><span class="pre">u</span></code><code class="kbd docutils literal"><span class="pre">l</span></code>)</li>
+<li><a class="reference internal" href="Plugins.html#steam-engine"><span class="std std-ref">steam-engine</span></a>: an alternative to Water Reactors which make more sense.
+See <code class="docutils literal"><span class="pre">hack/raw/*_steam_engine.txt</span></code> for the necessary raw definitions.</li>
+<li><a class="reference internal" href="Plugins.html#power-meter"><span class="std std-ref">power-meter</span></a>: a pressure plate modification to detect powered gear
+boxes on adjacent tiles. <a class="reference internal" href="_auto/gui.html#gui-power-meter"><span class="std std-ref">gui/power-meter</span></a> implements
+the build configuration UI.</li>
+<li><a class="reference internal" href="Plugins.html#siege-engine"><span class="std std-ref">siege-engine</span></a>:  massive overhaul for siege engines, configured via <a class="reference internal" href="_auto/gui.html#gui-siege-engine"><span class="std std-ref">gui/siege-engine</span></a></li>
+<li><a class="reference internal" href="Plugins.html#add-spatter"><span class="std std-ref">add-spatter</span></a>: allows poison coatings via raw reactions, among other things.</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<p class="logo">
+  <a href="../index.html">
+    <img class="logo" src="../_static/dfhack-logo.png" alt="Logo"/>
+    
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="../search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+  <h3><a href="../index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">HISTORY - old changelogs</a><ul>
+<li><a class="reference internal" href="#dfhack-0-43-05-r3">DFHack 0.43.05-r3</a><ul>
+<li><a class="reference internal" href="#internals">Internals</a></li>
+<li><a class="reference internal" href="#fixes">Fixes</a></li>
+<li><a class="reference internal" href="#misc-improvements">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-r2">DFHack 0.43.05-r2</a><ul>
+<li><a class="reference internal" href="#id1">Internals</a></li>
+<li><a class="reference internal" href="#lua">Lua</a></li>
+<li><a class="reference internal" href="#ruby">Ruby</a></li>
+<li><a class="reference internal" href="#new-internal-commands">New Internal Commands</a></li>
+<li><a class="reference internal" href="#new-plugins">New Plugins</a></li>
+<li><a class="reference internal" href="#new-scripts">New Scripts</a></li>
+<li><a class="reference internal" href="#new-tweaks">New Tweaks</a></li>
+<li><a class="reference internal" href="#id2">Fixes</a></li>
+<li><a class="reference internal" href="#id3">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-r1">DFHack 0.43.05-r1</a><ul>
+<li><a class="reference internal" href="#id4">Internals</a></li>
+<li><a class="reference internal" href="#id5">Lua</a></li>
+<li><a class="reference internal" href="#id6">Ruby</a></li>
+<li><a class="reference internal" href="#id7">New Plugins</a></li>
+<li><a class="reference internal" href="#id8">New Scripts</a></li>
+<li><a class="reference internal" href="#id9">New Tweaks</a></li>
+<li><a class="reference internal" href="#id10">Fixes</a></li>
+<li><a class="reference internal" href="#id11">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-beta2">DFHack 0.43.05-beta2</a><ul>
+<li><a class="reference internal" href="#id12">Fixes</a></li>
+<li><a class="reference internal" href="#structures">Structures</a></li>
+<li><a class="reference internal" href="#api-changes">API Changes</a></li>
+<li><a class="reference internal" href="#additions-removals">Additions/Removals:</a></li>
+<li><a class="reference internal" href="#other-changes">Other Changes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-beta1">DFHack 0.43.05-beta1</a><ul>
+<li><a class="reference internal" href="#id13">Fixes</a></li>
+<li><a class="reference internal" href="#id14">Structures</a></li>
+<li><a class="reference internal" href="#id15">Additions/Removals</a></li>
+<li><a class="reference internal" href="#id16">Other Changes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-alpha4">DFHack 0.43.05-alpha4</a><ul>
+<li><a class="reference internal" href="#id17">Fixes</a></li>
+<li><a class="reference internal" href="#id18">Structures</a></li>
+<li><a class="reference internal" href="#id19">Additions/Removals</a></li>
+<li><a class="reference internal" href="#id20">Other Changes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-05-alpha3">DFHack 0.43.05-alpha3</a><ul>
+<li><a class="reference internal" href="#id21">Fixes</a></li>
+<li><a class="reference internal" href="#id22">Structures</a></li>
+<li><a class="reference internal" href="#id23">API Changes</a></li>
+<li><a class="reference internal" href="#id24">Additions/Removals</a></li>
+<li><a class="reference internal" href="#id25">Other changes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-43-03-r1">DFHack 0.43.03-r1</a><ul>
+<li><a class="reference internal" href="#id26">Lua</a></li>
+<li><a class="reference internal" href="#new-features">New Features</a></li>
+<li><a class="reference internal" href="#id27">Fixes</a></li>
+<li><a class="reference internal" href="#id28">Misc Improvements</a></li>
+<li><a class="reference internal" href="#removed">Removed</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-42-06-r1">DFHack 0.42.06-r1</a><ul>
+<li><a class="reference internal" href="#id29">Internals</a></li>
+<li><a class="reference internal" href="#id30">Lua</a></li>
+<li><a class="reference internal" href="#id31">New Plugins</a></li>
+<li><a class="reference internal" href="#id32">New Scripts</a></li>
+<li><a class="reference internal" href="#id33">New Features</a></li>
+<li><a class="reference internal" href="#id34">Fixes</a></li>
+<li><a class="reference internal" href="#id35">Misc Improvements</a></li>
+<li><a class="reference internal" href="#id36">Removed</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r5">DFHack 0.40.24-r5</a><ul>
+<li><a class="reference internal" href="#id37">New Features</a></li>
+<li><a class="reference internal" href="#id38">Fixes</a></li>
+<li><a class="reference internal" href="#id39">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r4">DFHack 0.40.24-r4</a><ul>
+<li><a class="reference internal" href="#id40">Internals</a></li>
+<li><a class="reference internal" href="#id41">Lua</a></li>
+<li><a class="reference internal" href="#id42">New internal commands</a></li>
+<li><a class="reference internal" href="#id43">New plugins</a></li>
+<li><a class="reference internal" href="#id44">New scripts</a></li>
+<li><a class="reference internal" href="#id45">New tweaks</a></li>
+<li><a class="reference internal" href="#id46">Fixes</a></li>
+<li><a class="reference internal" href="#id47">Misc Improvements</a></li>
+<li><a class="reference internal" href="#id48">Removed</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r3">DFHack 0.40.24-r3</a><ul>
+<li><a class="reference internal" href="#id49">Internals</a></li>
+<li><a class="reference internal" href="#id50">Lua</a></li>
+<li><a class="reference internal" href="#id51">New Internal Commands</a></li>
+<li><a class="reference internal" href="#id52">New Plugins</a></li>
+<li><a class="reference internal" href="#id53">New Scripts</a></li>
+<li><a class="reference internal" href="#id54">New Tweaks</a></li>
+<li><a class="reference internal" href="#id55">Fixes</a></li>
+<li><a class="reference internal" href="#id56">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r2">DFHack 0.40.24-r2</a><ul>
+<li><a class="reference internal" href="#id57">Internals</a></li>
+<li><a class="reference internal" href="#id58">Fixes</a></li>
+<li><a class="reference internal" href="#id59">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r1">DFHack 0.40.24-r1</a><ul>
+<li><a class="reference internal" href="#id60">Internals</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-24-r0">DFHack 0.40.24-r0</a><ul>
+<li><a class="reference internal" href="#id61">Internals</a></li>
+<li><a class="reference internal" href="#id62">Fixes</a></li>
+<li><a class="reference internal" href="#id63">New Plugins</a></li>
+<li><a class="reference internal" href="#id64">New Scripts</a></li>
+<li><a class="reference internal" href="#id65">Removed</a></li>
+<li><a class="reference internal" href="#id66">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-23-r1">DFHack 0.40.23-r1</a><ul>
+<li><a class="reference internal" href="#id67">Internals</a></li>
+<li><a class="reference internal" href="#id68">Fixes</a></li>
+<li><a class="reference internal" href="#id69">New Plugins</a></li>
+<li><a class="reference internal" href="#id70">New Scripts</a></li>
+<li><a class="reference internal" href="#id71">Removed</a></li>
+<li><a class="reference internal" href="#id72">New tweaks</a></li>
+<li><a class="reference internal" href="#id73">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-19-r1">DFHack 0.40.19-r1</a><ul>
+<li><a class="reference internal" href="#id74">Fixes</a></li>
+<li><a class="reference internal" href="#id75">New plugins</a></li>
+<li><a class="reference internal" href="#id76">New scripts</a></li>
+<li><a class="reference internal" href="#id77">Misc improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-16-r1">DFHack 0.40.16-r1</a><ul>
+<li><a class="reference internal" href="#id78">Internals</a></li>
+<li><a class="reference internal" href="#id79">Fixes</a></li>
+<li><a class="reference internal" href="#id80">New Scripts</a></li>
+<li><a class="reference internal" href="#id81">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-15-r1">DFHack 0.40.15-r1</a><ul>
+<li><a class="reference internal" href="#id82">Fixes</a></li>
+<li><a class="reference internal" href="#id83">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-14-r1">DFHack 0.40.14-r1</a><ul>
+<li><a class="reference internal" href="#id84">Internals</a></li>
+<li><a class="reference internal" href="#id85">Fixes</a></li>
+<li><a class="reference internal" href="#id86">New Plugins</a></li>
+<li><a class="reference internal" href="#id87">New Tweaks</a></li>
+<li><a class="reference internal" href="#id88">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-13-r1">DFHack 0.40.13-r1</a><ul>
+<li><a class="reference internal" href="#id89">Internals</a></li>
+<li><a class="reference internal" href="#id90">Fixes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-12-r1">DFHack 0.40.12-r1</a><ul>
+<li><a class="reference internal" href="#id91">Internals</a></li>
+<li><a class="reference internal" href="#id92">New Plugins</a></li>
+<li><a class="reference internal" href="#id93">Fixes</a></li>
+<li><a class="reference internal" href="#id94">Misc Improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-0-40-11-r1">DFHack 0.40.11-r1</a><ul>
+<li><a class="reference internal" href="#id95">Internals</a></li>
+<li><a class="reference internal" href="#id96">Fixes</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-v0-40-10-r1">DFHack v0.40.10-r1</a></li>
+<li><a class="reference internal" href="#dfhack-v0-40-08-r2">DFHack v0.40.08-r2</a><ul>
+<li><a class="reference internal" href="#id97">Internals</a></li>
+<li><a class="reference internal" href="#id98">New Scripts</a></li>
+<li><a class="reference internal" href="#id99">Misc improvements</a></li>
+<li><a class="reference internal" href="#id100">Removed</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-v0-40-08-r1">DFHack v0.40.08-r1</a></li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r5">DFHack v0.34.11-r5</a><ul>
+<li><a class="reference internal" href="#id101">Internals</a></li>
+<li><a class="reference internal" href="#id102">New scripts</a></li>
+<li><a class="reference internal" href="#id103">New plugins</a></li>
+<li><a class="reference internal" href="#id104">New tweaks</a></li>
+<li><a class="reference internal" href="#id105">Misc improvements</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r4">DFHack v0.34.11-r4</a><ul>
+<li><a class="reference internal" href="#new-commands">New commands</a></li>
+<li><a class="reference internal" href="#id106">New Scripts</a></li>
+<li><a class="reference internal" href="#id107">Misc improvements</a></li>
+<li><a class="reference internal" href="#id108">New tweaks</a></li>
+<li><a class="reference internal" href="#id109">New plugins</a></li>
+<li><a class="reference internal" href="#id110">Internals</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r3">DFHack v0.34.11-r3</a><ul>
+<li><a class="reference internal" href="#id111">Internals</a></li>
+<li><a class="reference internal" href="#notable-bugfixes">Notable bugfixes</a></li>
+<li><a class="reference internal" href="#id112">Misc improvements</a></li>
+<li><a class="reference internal" href="#id113">New tweaks</a></li>
+<li><a class="reference internal" href="#id114">New scripts</a></li>
+<li><a class="reference internal" href="#new-gui-scripts">New GUI scripts</a></li>
+<li><a class="reference internal" href="#new-binary-patches">New binary patches</a></li>
+<li><a class="reference internal" href="#id115">New Plugins</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#dfhack-v0-34-11-r2">DFHack v0.34.11-r2</a><ul>
+<li><a class="reference internal" href="#id116">Internals</a></li>
+<li><a class="reference internal" href="#id117">Notable bugfixes</a></li>
+<li><a class="reference internal" href="#id118">Misc improvements</a></li>
+<li><a class="reference internal" href="#id119">New commands</a></li>
+<li><a class="reference internal" href="#id120">New tweaks</a></li>
+<li><a class="reference internal" href="#id121">New scripts</a></li>
+<li><a class="reference internal" href="#id122">New Plugins</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2015, The DFHack Team.
+      
+      |
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.6.7</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.8</a>
+      
+      |
+      <a href="../_sources/docs/History.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

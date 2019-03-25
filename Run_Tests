@@ -1,0 +1,11 @@
+# !/bin/bash
+
+printf "DFmark\n\n" > Test_Results.txt
+
+./gentest TESTBIGGEN
+
+./gentest TESTSMALLGEN
+
+./embarktest TESTBIGEMBARK
+
+#./embarktest TESTSMALLEMBARK
